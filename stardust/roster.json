@@ -1,0 +1,457 @@
+[
+ {
+  "path": "/pages/courses",
+  "src": "https://www.cecreditsonline.org/pages/courses",
+  "template": "info"
+ },
+ {
+  "path": "/pages/womens-month-books-world-poetry-day-download-classroom-booklist",
+  "src": "https://www.cecreditsonline.org/pages/womens-month-books-world-poetry-day-download-classroom-booklist",
+  "template": "info"
+ },
+ {
+  "path": "/pages/about-us",
+  "src": "https://www.cecreditsonline.org/pages/about-us",
+  "template": "info"
+ },
+ {
+  "path": "/pages/faq",
+  "src": "https://www.cecreditsonline.org/pages/faq",
+  "template": "info"
+ },
+ {
+  "path": "/pages/contact",
+  "src": "https://www.cecreditsonline.org/pages/contact",
+  "template": "info"
+ },
+ {
+  "path": "/pages/my-account",
+  "src": "https://www.cecreditsonline.org/pages/my-account",
+  "template": "info"
+ },
+ {
+  "path": "/pages/privacy-policy",
+  "src": "https://www.cecreditsonline.org/pages/privacy-policy",
+  "template": "info"
+ },
+ {
+  "path": "/pages/subscribe-to-our-newsletter",
+  "src": "https://www.cecreditsonline.org/pages/subscribe-to-our-newsletter",
+  "template": "info"
+ },
+ {
+  "path": "/pages/university-partners",
+  "src": "https://www.cecreditsonline.org/pages/university-partners",
+  "template": "info"
+ },
+ {
+  "path": "/pages/refund-policy",
+  "src": "https://www.cecreditsonline.org/pages/refund-policy",
+  "template": "info"
+ },
+ {
+  "path": "/pages/data-sharing-opt-out",
+  "src": "https://www.cecreditsonline.org/pages/data-sharing-opt-out",
+  "template": "info"
+ },
+ {
+  "path": "/pages/dnsmpi",
+  "src": "https://www.cecreditsonline.org/pages/dnsmpi",
+  "template": "info"
+ },
+ {
+  "path": "/pages/data-requests",
+  "src": "https://www.cecreditsonline.org/pages/data-requests",
+  "template": "info"
+ },
+ {
+  "path": "/pages/what-teachers-say-about-ce-credits-online",
+  "src": "https://www.cecreditsonline.org/pages/what-teachers-say-about-ce-credits-online",
+  "template": "info"
+ },
+ {
+  "path": "/pages/how-to-get-your-pre-approved-lausd-salary-points",
+  "src": "https://www.cecreditsonline.org/pages/how-to-get-your-pre-approved-lausd-salary-points",
+  "template": "info"
+ },
+ {
+  "path": "/pages/how-to-earn-chicago-public-schools-lane-credits",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-chicago-public-schools-lane-credits",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-pd-credits",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-pd-credits",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-wyoming-ptsb-renewal-units",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-wyoming-ptsb-renewal-units",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-clock-hours-esd-171",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-171",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-clock-hours-esd-101",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-101",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-clock-hours-esd-114",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-114",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-texas-cpe-credits",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-texas-cpe-credits",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-new-york-state-ctle-hours",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-new-york-state-ctle-hours",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-montana-renewal-units",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-montana-renewal-units",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-washington-state-clock-hours",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-washington-state-clock-hours",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-nyc-doe-aspdp-plus-30-salary-differential",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-nyc-doe-aspdp-plus-30-salary-differential",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-lausd-independent-charter-schools-salary-points",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-lausd-independent-charter-schools-salary-points",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-pasadena-pusd-salary-credits",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-pasadena-pusd-salary-credits",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-southwest-georgia-resa-plus",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-southwest-georgia-resa-plus",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/pages/how-to-earn-illinois-pd-credits",
+  "src": "https://www.cecreditsonline.org/pages/how-to-earn-illinois-pd-credits",
+  "template": "how-to-earn"
+ },
+ {
+  "path": "/collections/cps",
+  "src": "https://www.cecreditsonline.org/collections/cps",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/courses",
+  "src": "https://www.cecreditsonline.org/collections/courses",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/educational-service-district-171",
+  "src": "https://www.cecreditsonline.org/collections/educational-service-district-171",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/pioneer-resa",
+  "src": "https://www.cecreditsonline.org/collections/pioneer-resa",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/wgct",
+  "src": "https://www.cecreditsonline.org/collections/wgct",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/illinois",
+  "src": "https://www.cecreditsonline.org/collections/illinois",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/lausd-independent-charter-schools",
+  "src": "https://www.cecreditsonline.org/collections/lausd-independent-charter-schools",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/lausd",
+  "src": "https://www.cecreditsonline.org/collections/lausd",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/mindfulness-courses-for-educators-building-a-practice-to-support-teacher-and-student-success",
+  "src": "https://www.cecreditsonline.org/collections/mindfulness-courses-for-educators-building-a-practice-to-support-teacher-and-student-success",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/montana",
+  "src": "https://www.cecreditsonline.org/collections/montana",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/aspdp",
+  "src": "https://www.cecreditsonline.org/collections/aspdp",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/pasadena",
+  "src": "https://www.cecreditsonline.org/collections/pasadena",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/region-10",
+  "src": "https://www.cecreditsonline.org/collections/region-10",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/southwest-georgia-resa",
+  "src": "https://www.cecreditsonline.org/collections/southwest-georgia-resa",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/texas-state",
+  "src": "https://www.cecreditsonline.org/collections/texas-state",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/educational-service-district-114",
+  "src": "https://www.cecreditsonline.org/collections/educational-service-district-114",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/washington-state",
+  "src": "https://www.cecreditsonline.org/collections/washington-state",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/rw",
+  "src": "https://www.cecreditsonline.org/collections/rw",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/wyoming-ptsb",
+  "src": "https://www.cecreditsonline.org/collections/wyoming-ptsb",
+  "template": "collection"
+ },
+ {
+  "path": "/collections/ctle-hours-for-new-york-state",
+  "src": "https://www.cecreditsonline.org/collections/ctle-hours-for-new-york-state",
+  "template": "collection"
+ },
+ {
+  "path": "/products/university-credits",
+  "src": "https://www.cecreditsonline.org/products/university-credits",
+  "template": "product"
+ },
+ {
+  "path": "/products/processing-and-handling",
+  "src": "https://www.cecreditsonline.org/products/processing-and-handling",
+  "template": "product"
+ },
+ {
+  "path": "/products/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces",
+  "src": "https://www.cecreditsonline.org/products/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces",
+  "template": "product"
+ },
+ {
+  "path": "/products/abcs-of-virtual-teaching",
+  "src": "https://www.cecreditsonline.org/products/abcs-of-virtual-teaching",
+  "template": "product"
+ },
+ {
+  "path": "/products/advocating-for-students-the-special-education-process-and-beyond",
+  "src": "https://www.cecreditsonline.org/products/advocating-for-students-the-special-education-process-and-beyond",
+  "template": "product"
+ },
+ {
+  "path": "/products/autism-advocate-supporting-students-with-asd",
+  "src": "https://www.cecreditsonline.org/products/autism-advocate-supporting-students-with-asd",
+  "template": "product"
+ },
+ {
+  "path": "/products/building-capacity-for-effective-reading-instruction-through-collaborative-inquiry",
+  "src": "https://www.cecreditsonline.org/products/building-capacity-for-effective-reading-instruction-through-collaborative-inquiry",
+  "template": "product"
+ },
+ {
+  "path": "/products/choice-theory-in-the-classroom-where-every-student-can-succeed",
+  "src": "https://www.cecreditsonline.org/products/choice-theory-in-the-classroom-where-every-student-can-succeed",
+  "template": "product"
+ },
+ {
+  "path": "/products/classroom-and-behavior-management-strategies-that-work",
+  "src": "https://www.cecreditsonline.org/products/classroom-and-behavior-management-strategies-that-work",
+  "template": "product"
+ },
+ {
+  "path": "/products/coaching-to-improve-teaching-and-learning",
+  "src": "https://www.cecreditsonline.org/products/coaching-to-improve-teaching-and-learning",
+  "template": "product"
+ },
+ {
+  "path": "/products/conducting-the-parent-conference",
+  "src": "https://www.cecreditsonline.org/products/conducting-the-parent-conference",
+  "template": "product"
+ },
+ {
+  "path": "/products/content-based-instructional-strategies-for-ell",
+  "src": "https://www.cecreditsonline.org/products/content-based-instructional-strategies-for-ell",
+  "template": "product"
+ },
+ {
+  "path": "/products/creating-adoption-sensitive-classrooms",
+  "src": "https://www.cecreditsonline.org/products/creating-adoption-sensitive-classrooms",
+  "template": "product"
+ },
+ {
+  "path": "/products/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces",
+  "src": "https://www.cecreditsonline.org/products/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces",
+  "template": "product"
+ },
+ {
+  "path": "/products/creating-school-environments-free-from-harassment-intimidation-and-bullying",
+  "src": "https://www.cecreditsonline.org/products/creating-school-environments-free-from-harassment-intimidation-and-bullying",
+  "template": "product"
+ },
+ {
+  "path": "/products/developing-listening-comprehension-in-english-language-learners",
+  "src": "https://www.cecreditsonline.org/products/developing-listening-comprehension-in-english-language-learners",
+  "template": "product"
+ },
+ {
+  "path": "/products/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement",
+  "src": "https://www.cecreditsonline.org/products/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement",
+  "template": "product"
+ },
+ {
+  "path": "/products/differentiating-instruction-in-the-21st-century-classroom",
+  "src": "https://www.cecreditsonline.org/products/differentiating-instruction-in-the-21st-century-classroom",
+  "template": "product"
+ },
+ {
+  "path": "/products/distance-learning-from-construction-to-instruction",
+  "src": "https://www.cecreditsonline.org/products/distance-learning-from-construction-to-instruction",
+  "template": "product"
+ },
+ {
+  "path": "/products/ell-language-assessment-and-related-issues-in-the-k-12-classroom-an-introduction",
+  "src": "https://www.cecreditsonline.org/products/ell-language-assessment-and-related-issues-in-the-k-12-classroom-an-introduction",
+  "template": "product"
+ },
+ {
+  "path": "/blogs/news",
+  "src": "https://www.cecreditsonline.org/blogs/news",
+  "template": "blog-index"
+ },
+ {
+  "path": "/blogs/news/making-the-most-of-the-end-of-summer",
+  "src": "https://www.cecreditsonline.org/blogs/news/making-the-most-of-the-end-of-summer",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/great-presidents-day-activities-for-every-classroom",
+  "src": "https://www.cecreditsonline.org/blogs/news/great-presidents-day-activities-for-every-classroom",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/womens-history-month-spotlight-the-girl-scouts",
+  "src": "https://www.cecreditsonline.org/blogs/news/womens-history-month-spotlight-the-girl-scouts",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/pi-day-activities",
+  "src": "https://www.cecreditsonline.org/blogs/news/pi-day-activities",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/women-in-stem",
+  "src": "https://www.cecreditsonline.org/blogs/news/women-in-stem",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/national-librarians-day",
+  "src": "https://www.cecreditsonline.org/blogs/news/national-librarians-day",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/getting-student-interested-in-writing",
+  "src": "https://www.cecreditsonline.org/blogs/news/getting-student-interested-in-writing",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/national-dna-day",
+  "src": "https://www.cecreditsonline.org/blogs/news/national-dna-day",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/honorary-astronauts",
+  "src": "https://www.cecreditsonline.org/blogs/news/honorary-astronauts",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/mercury-13-almost-astronauts",
+  "src": "https://www.cecreditsonline.org/blogs/news/mercury-13-almost-astronauts",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/space-related-internships-and-scholarships",
+  "src": "https://www.cecreditsonline.org/blogs/news/space-related-internships-and-scholarships",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/space-day-activities",
+  "src": "https://www.cecreditsonline.org/blogs/news/space-day-activities",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/summer-activities-to-prepare-for-senior-year-and-beyond",
+  "src": "https://www.cecreditsonline.org/blogs/news/summer-activities-to-prepare-for-senior-year-and-beyond",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/10-ways-students-can-make-the-most-of-their-summer",
+  "src": "https://www.cecreditsonline.org/blogs/news/10-ways-students-can-make-the-most-of-their-summer",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/5-ways-to-combat-summer-slide",
+  "src": "https://www.cecreditsonline.org/blogs/news/5-ways-to-combat-summer-slide",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/new-course-developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement",
+  "src": "https://www.cecreditsonline.org/blogs/news/new-course-developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/5-ways-to-manage-your-time-this-summer",
+  "src": "https://www.cecreditsonline.org/blogs/news/5-ways-to-manage-your-time-this-summer",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/summer-hacks-to-avoid-teacher-burnout",
+  "src": "https://www.cecreditsonline.org/blogs/news/summer-hacks-to-avoid-teacher-burnout",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/summer-reading-list-for-teachers",
+  "src": "https://www.cecreditsonline.org/blogs/news/summer-reading-list-for-teachers",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/6-creative-teaching-methods",
+  "src": "https://www.cecreditsonline.org/blogs/news/6-creative-teaching-methods",
+  "template": "blog-article"
+ }
+]
