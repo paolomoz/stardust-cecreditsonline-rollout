@@ -1,51 +1,127 @@
-/* CE Credits Online — editorial split hero (text left, image right) */
+/* CE Credits Online — hero. Full-bleed photographic by default (experience-led);
+   split (text + image) fallback when the image is low-resolution.
+   fullbleed and split are mutually-exclusive variants (an element is never both),
+   so they never cascade-conflict; order by treatment, not specificity. */
+/* stylelint-disable no-descending-specificity */
 .hero-container {
   background-color: var(--background-color);
 }
 
 .hero-container .hero-wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
+  max-width: unset;
   padding: 0;
 }
 
-.hero.block > div {
+/* ---- Full-bleed photographic hero ---- */
+.hero.block.hero-fullbleed {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: clamp(420px, 62vh, 640px);
+  padding: 48px 24px;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.hero.block.hero-fullbleed .hero-bg {
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  display: block;
+}
+
+.hero.block.hero-fullbleed .hero-bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* legibility scrim — darker at the text side, fading across */
+.hero.block.hero-fullbleed::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background:
+    linear-gradient(90deg, rgb(33 28 28 / 78%) 0%, rgb(33 28 28 / 55%) 42%, rgb(33 28 28 / 20%) 100%),
+    linear-gradient(0deg, rgb(33 28 28 / 35%) 0%, rgb(33 28 28 / 0%) 45%);
+}
+
+.hero.block.hero-fullbleed .hero-content {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  color: var(--surface-color);
+}
+
+.hero.block.hero-fullbleed .hero-content h1 {
+  margin-top: 0;
+  max-width: 18ch;
+  color: var(--surface-color);
+  font-size: var(--heading-font-size-xxl);
+  text-shadow: 0 1px 18px rgb(33 28 28 / 35%);
+}
+
+.hero.block.hero-fullbleed .hero-content p {
+  max-width: 46ch;
+  font-size: var(--body-font-size-m);
+  color: color-mix(in srgb, var(--surface-color) 94%, var(--text-color));
+}
+
+.hero.block.hero-fullbleed .hero-content .button-wrapper {
+  display: inline-block;
+  margin: 12px 12px 0 0;
+}
+
+/* secondary CTA reads on a photo: light outline */
+.hero.block.hero-fullbleed .button.secondary {
+  border-color: var(--surface-color);
+  color: var(--surface-color);
+  background: transparent;
+}
+
+.hero.block.hero-fullbleed .button.secondary:hover {
+  background: var(--surface-color);
+  color: var(--text-color);
+}
+
+/* ---- Split fallback (low-res image) ---- */
+.hero.block.hero-split > div {
   display: grid;
   gap: 32px;
   align-items: center;
   padding: 48px 24px;
 }
 
-.hero.block > div > div {
-  margin: 0;
-}
+.hero.block.hero-split > div > div { margin: 0; }
+.hero.block.hero-split picture { display: block; }
 
-.hero.block picture { display: block; }
-
-.hero.block img {
+.hero.block.hero-split img {
   width: 100%;
   border-radius: 8px;
   box-shadow: 0 12px 40px rgb(33 28 28 / 12%);
   object-fit: cover;
 }
 
-.hero.block h1 {
+.hero.block.hero-split h1 {
   margin-top: 0;
   font-size: var(--heading-font-size-xxl);
 }
 
-.hero.block p {
+.hero.block.hero-split p {
   font-size: var(--body-font-size-m);
   color: var(--text-soft);
 }
 
-.hero.block .button-wrapper {
+.hero.block.hero-split .button-wrapper {
   display: inline-block;
   margin-right: 12px;
 }
 
 @media (width >= 900px) {
-  .hero.block > div {
+  .hero.block.hero-fullbleed { padding: 64px 32px; }
+
+  .hero.block.hero-split > div {
     grid-template-columns: 1.05fr 1fr;
     padding: 64px 32px;
   }

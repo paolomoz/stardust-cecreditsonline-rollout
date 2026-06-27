@@ -27,7 +27,8 @@ export default async function decorate(block) {
     const ql = q.toLowerCase();
     items = items.filter((it) => `${it.title} ${it.description}`.toLowerCase().includes(ql));
   }
-  items.sort((a, b) => Number(b.publishdate || b.lastModified || 0) - Number(a.publishdate || a.lastModified || 0));
+  const ts = (it) => Number(it.publishdate || it.lastModified || 0);
+  items.sort((a, b) => ts(b) - ts(a));
 
   const ul = document.createElement('ul');
   items.slice(0, 60).forEach((it) => {
