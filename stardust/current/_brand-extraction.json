@@ -1,0 +1,114 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T17:18:00Z",
+    "readArtifacts": ["pages/*.json (10 archetype pages)"],
+    "synthesizedInputs": [],
+    "stardustVersion": "0.13.1",
+    "aggregationScope": "cross-page (10 pages)"
+  },
+  "site": {
+    "originUrl": "https://www.cecreditsonline.org",
+    "siteName": "CE Credits Online",
+    "platform": "Shopify (Dawn-derived theme)",
+    "register": "brand",
+    "tagline": "Online Professional Development for K-12 Teachers"
+  },
+  "logo": {
+    "method": "img.logo-ish",
+    "src": "https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png",
+    "localPath": "stardust/current/assets/logo.png",
+    "intrinsic": "500x91",
+    "synthesized": false,
+    "_provenance": { "selector": "header img[alt='CE Credits Online']", "notes": "Wide wordmark logo, transparent PNG. No inline SVG present." }
+  },
+  "favicon": {
+    "src": "https://www.cecreditsonline.org/cdn/shop/files/favicon.png",
+    "localPath": "stardust/current/assets/favicon.png",
+    "appleTouchIcon": null
+  },
+  "palette": [
+    { "role": "background", "value": "#F5F3ED", "rgb": "245,243,237", "note": "warm ivory/cream — dominant page background, --color-background" },
+    { "role": "text", "value": "#2D2D2D", "rgb": "45,45,45", "note": "warm near-black — base text, --color-base-text" },
+    { "role": "primary", "value": "#415D43", "rgb": "65,93,67", "note": "forest green — primary button bg + announcement bar, --color-base-button-background" },
+    { "role": "primary-dark", "value": "#2D3D2E", "rgb": "45,61,46", "note": "deep forest green — hover/accent" },
+    { "role": "surface", "value": "#FFFFFF", "rgb": "255,255,255", "note": "card/surface white" },
+    { "role": "border", "value": "#211C1C", "rgb": "33,28,28", "note": "section border / outline-button border" },
+    { "role": "muted", "value": "#E0E0E0", "rgb": "224,224,224", "note": "secondary element background" }
+  ],
+  "type": {
+    "headingFamily": "Mundial, Poppins, sans-serif",
+    "headingComputed": "mundial (display) — geometric-humanist sans; Poppins fallback observed",
+    "cardHeadingFamily": "Figtree, sans-serif",
+    "bodyFamily": "Figtree, sans-serif",
+    "scaleAudit": { "kind": "ad-hoc", "note": "Shopify Dawn scale variables present (--font-heading-scale: 1.0)" },
+    "transforms": { "buttons": "uppercase", "cardHeadings": "uppercase" },
+    "letterSpacing": { "headingCard": "-0.02em" },
+    "files": [
+      { "family": "Figtree", "weights": ["400","600","italic"], "localPath": "assets/fonts/figtree_*.woff2", "licensingFlag": "open (Google Fonts / OFL)" },
+      { "family": "Poppins", "weights": ["500","700"], "localPath": "assets/fonts/poppins_*.woff2", "licensingFlag": "open (Google Fonts / OFL)" },
+      { "family": "GT Standard (Mundial-like)", "weights": ["Regular","Medium"], "localPath": "assets/fonts/GTStandard-*.woff2", "licensingFlag": "PRIVATE — verify usage rights; substitute Poppins for redesign" }
+    ]
+  },
+  "motifs": {
+    "borderRadius": "4px (dominant); 0px for full-bleed bands; 50% for circular badges",
+    "shadows": ["subtle card shadow"],
+    "patterns": ["card", "image+text split panel", "testimonial slider", "stat band", "logo strip (university partners)", "announcement bar (green)"],
+    "buttonStyle": { "primary": { "bg": "#415D43", "color": "#FFFFFF", "radius": "4px", "transform": "uppercase" }, "outline": { "bg": "#FFFFFF", "border": "#211C1C", "radius": "4px", "transform": "uppercase" } }
+  },
+  "voice": {
+    "heroHeadline": "Online Professional Development for K-12 Teachers",
+    "heroSubhead": "Flexible, Self-Paced Online PD Courses for Teachers — Earn Accredited Credits",
+    "heroImage": { "src": "https://www.cecreditsonline.org/cdn/shop/files/hero.webp", "localPath": "stardust/current/assets/media/hero.webp", "intrinsic": "1500x747" },
+    "ogImage": "https://www.cecreditsonline.org/cdn/shop/files/Shopify.jpg (generic share image — NOT editorial, do not use as hero)",
+    "bodySamples": [
+      "For more than 20 years, CE Credits Online has been helping K-12 teachers grow — on their schedule, at their own pace, and in ways that actually matter in the classroom.",
+      "Founded in 2001, CE Credits Online is a woman-owned company built around one simple idea: professional development should be worth a teacher's time. Our graduate-level courses are completely online and self-paced.",
+      "Every CE Credits Online course is eligible for graduate-level credit from regionally accredited universities, and hundreds of thousands of educators have trusted us over the past two decades."
+    ],
+    "testimonials": [
+      "I will use the learned strategies every day in my practice. I have a much better understanding of HIB and how I can prevent it in my school building.",
+      "I absolutely loved this course! It was incredibly helpful, offering strategies that apply to any type of student.",
+      "I found the evidence-based strategies I took away from this course incredibly valuable. I loved the videos and resources that were shared throughout."
+    ],
+    "stat": "94% of over 20,000 educators state they would take another CE Credits Online course",
+    "ctaLabels": ["Browse Courses", "View Courses", "Learn More", "Get Started", "Subscribe", "Read all reviews"]
+  },
+  "systemComponents": {
+    "header": {
+      "logo": "ce-logo.png",
+      "announcementBar": { "bg": "#415D43", "text": "Subscribe and Save!" },
+      "nav": [
+        { "label": "Courses", "href": "/pages/courses" },
+        { "label": "University Partners", "href": "/pages/university-partners" },
+        { "label": "Blog", "href": "/blogs/news" },
+        { "label": "Support", "href": "/pages/contact" },
+        { "label": "About Us", "href": "/pages/about-us" },
+        { "label": "FAQ", "href": "/pages/faq" }
+      ],
+      "utility": ["Log in", "Create account", "Cart"]
+    },
+    "footer": {
+      "columns": [
+        { "title": "Quick links", "links": ["Courses", "University Partners", "About", "FAQ", "Blog", "What teachers say about us"] },
+        { "title": "Legal", "links": ["Privacy Policy", "Refund Policy", "Terms of Service", "Do not sell my data", "Data Requests"] }
+      ],
+      "newsletter": true
+    }
+  },
+  "templates": [
+    { "id": "home", "archetype": "index", "pattern": "/", "count": 1 },
+    { "id": "product", "archetype": "products-abcs-of-virtual-teaching", "pattern": "/products/*", "count": 58 },
+    { "id": "collection", "archetype": "collections-courses", "pattern": "/collections/*", "count": 22 },
+    { "id": "info", "archetype": "pages-about-us", "pattern": "/pages/* (generic)", "count": 13 },
+    { "id": "how-to-earn", "archetype": "pages-how-to-earn-pd-credits", "pattern": "/pages/how-to-earn-*", "count": 17 },
+    { "id": "blog-index", "archetype": "blogs-news", "pattern": "/blogs/news", "count": 1 },
+    { "id": "blog-article", "archetype": "blogs-news-pi-day-activities", "pattern": "/blogs/news/*", "count": 193 },
+    { "id": "faq", "archetype": "pages-faq", "pattern": "/pages/faq", "count": 1 },
+    { "id": "contact", "archetype": "pages-contact", "pattern": "/pages/contact", "count": 1 }
+  ],
+  "contentNotes": {
+    "encoding": "Source contains mojibake (â€\" → —, â€™ → ') in some body copy — normalize at author time.",
+    "commerce": "Shopify storefront: products are courses ($ priced), cart/checkout flow. Migration target is editorial EDS — reproduce content, drop live cart."
+  }
+}

@@ -1,0 +1,1311 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T15:15:23.116Z",
+    "readArtifacts": [
+      "https://www.cecreditsonline.org/blogs/news"
+    ],
+    "synthesizedInputs": [],
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T15:15:18.464Z",
+    "waitMode": "medium",
+    "waitMs": 4135,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://www.cecreditsonline.org/blogs/news"
+  },
+  "slug": "blogs-news",
+  "url": "https://www.cecreditsonline.org/blogs/news",
+  "finalUrl": "https://www.cecreditsonline.org/blogs/news",
+  "title": "Blog Articles for Educators – CE Credits Online",
+  "metaDescription": "Education is our passion, so we regularly update our blog with helpful articles",
+  "og": {
+    "title": "Blog",
+    "description": "Education is our passion, so we regularly update our blog with helpful articles",
+    "image": "http://www.cecreditsonline.org/cdn/shop/files/Shopify.jpg?v=1773697835",
+    "type": "website",
+    "siteName": "CE Credits Online"
+  },
+  "themeColor": {
+    "light": null
+  },
+  "language": "en",
+  "favicon": "https://www.cecreditsonline.org/cdn/shop/files/favicon.png?crop=center&height=32&v=1696454106&width=32",
+  "appleTouch": null,
+  "headings": [
+    {
+      "level": 5,
+      "text": "Courses By State",
+      "id": null,
+      "domPath": "div#courses-dropdown > div.heading > h5",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "18px",
+        "lineHeight": "20.7px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Blog Articles for Educators",
+      "id": null,
+      "domPath": "section#shopify-section-template--16584647540956__main > div.main-blog > div.page-header > div.page-header__inner > h1.page-title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "40px",
+        "lineHeight": "46px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The Importance of Professional Development",
+      "id": "Article-750717075676",
+      "domPath": "h2#Article-750717075676",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "35px",
+        "lineHeight": "40.25px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "End-of-Year Checklist for K–12 Teachers",
+      "id": "Article-750514372828",
+      "domPath": "h2#Article-750514372828",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "The First 10 Minutes: Routines That Make or Break Your Day",
+      "id": "Article-749051052252",
+      "domPath": "h2#Article-749051052252",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "End-of-Year Reflections for Educators",
+      "id": "Article-748658163932",
+      "domPath": "h2#Article-748658163932",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Teach Students How to Argue - Not Bicker",
+      "id": "Article-747242815708",
+      "domPath": "h2#Article-747242815708",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Navigating the Emotional Toll of Teaching K-12 Students",
+      "id": "Article-746910974172",
+      "domPath": "h2#Article-746910974172",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Beyond February: Literature That Amplifies Black Voices in Every Classroom",
+      "id": "Article-746174677212",
+      "domPath": "h2#Article-746174677212",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "500",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "CE CREDITS ONLINE",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "HAVE QUESTIONS?",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Items in your cart",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__header > h2.cart-notification__heading",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Subtotal:",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__bottom > div.cart-notification__subtotal > div.totals__wrapper > div.totals > h3.totals__subtotal",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "announcement-bar",
+        "color-inverse"
+      ],
+      "childCount": 1,
+      "innerText": "Subscribe and Save! *",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header",
+        "header--top-center",
+        "container",
+        "header--has-menu"
+      ],
+      "childCount": 5,
+      "innerText": "Courses University Partners Blog Support About Us FAQ Log in Create account Cart",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "header__column"
+          ],
+          "headline": null,
+          "wordCount": 5,
+          "body": [],
+          "lists": [],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "menu-drawer__navigation"
+      ],
+      "childCount": 1,
+      "innerText": "console.log(\"Courses\") Courses Courses By State console.log(\"University Partners\") University Partners console.log(\"Blog\") Blog console.log(\"Support\") Support console.log(\"About Us\") About Us console.log(\"FAQ\") FAQ",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Courses University Partners Blog",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Support About Us FAQ",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "MainContent",
+      "classes": [
+        "content-for-layout",
+        "focus-none"
+      ],
+      "childCount": 1,
+      "innerText": "Blog Articles for Educators CLASSROOM MANAGEMENT INSTRUCTIONAL STRATEGIES TEACHER LEADERSHIP The Importance of Professional Development June 2026 Professional development isn’t just a requirement. It’s one of the most powerful tools educators have to strengthen their practice, advance their careers, and create meaningful change in their classrooms. In... The Importance of Professional Development CLASSROOM MANAGEMENT End-of-Year Checklist for K–12 Teachers May 2026 As the school year comes to an end, it’s time to reflect, refresh, and prepare for a well-earned break. Here’s a simple checklist to help teachers wrap up the year... End-of-Year Checklist for K–12 Teachers CLASSROOM MANAGEMENT The First 10 Minutes: Routines That Make or Break Your Day April 2026 The first ten minutes of class set the tone for the day. When students enter a room that feels predictable, purposeful, and calm, they settle faster, engage more quickly, and... The First 10 Minutes: Routines That Make or Break Your Day CLASSROOM MANAGEMENT End-of-Year Reflections for Educators April 2026 As the school year draws to a close, there’s a unique mix of emotions that every educator knows well—relief, pride, exhaustion, and reflection. At CE Credits Online, we want to... End-of-Year Reflections for Educators 21ST‑CENTURY TEACHING SKILLS SOCIAL‑EMOTIONAL LEARNING Teach Students How to Argue - Not Bicker March 2026 Teaching students how to really argue is one of the most powerful ways to build critical thinking, empathetic listeners, and confident communicators. This is something many students and adults could... Teach Students How to Argue - Not Bicker TEACHER LEADERSHIP Navigating the Emotional Toll of Teaching K-12 Students March 2026 Teaching is so much more than what is listed on the job description on Indeed. The emotional labor that weighs on teachers for every lesson plan, hallway conversation, and parent... Navigating the Emotional Toll of Teaching K-12 Students DIVERSE LEARNERS Beyond February: Literature That Amplifies Black Voices in Every Classroom February 2026 Black History Month is a great time to start highlighting stories that honor the depth, diversity and Brilliance of Black experiences if your reading lists are looking a little one... Beyond February: Literature That Amplifies Black Voices in Every Classroom 1 2 3 … 28",
+      "children": [
+        {
+          "tag": "section",
+          "id": "shopify-section-template--16584647540956__main",
+          "classes": [
+            "shopify-section",
+            "spaced-section"
+          ],
+          "headline": "Blog Articles for Educators",
+          "wordCount": 356,
+          "body": [
+            "Professional development isn’t just a requirement. It’s one of the most powerful tools educators have to strengthen their practice, advance their careers, and create meaningful change in their classrooms. In...",
+            "As the school year comes to an end, it’s time to reflect, refresh, and prepare for a well-earned break. Here’s a simple checklist to help teachers wrap up the year...",
+            "The first ten minutes of class set the tone for the day. When students enter a room that feels predictable, purposeful, and calm, they settle faster, engage more quickly, and...",
+            "As the school year draws to a close, there’s a unique mix of emotions that every educator knows well—relief, pride, exhaustion, and reflection. At CE Credits Online, we want to...",
+            "Teaching students how to really argue is one of the most powerful ways to build critical thinking, empathetic listeners, and confident communicators. This is something many students and adults could...",
+            "Teaching is so much more than what is listed on the job description on Indeed. The emotional labor that weighs on teachers for every lesson plan, hallway conversation, and parent...",
+            "Black History Month is a great time to start highlighting stories that honor the depth, diversity and Brilliance of Black experiences if your reading lists are looking a little one..."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Classroom Management",
+                "Instructional Strategies",
+                "Teacher Leadership"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Classroom Management"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Classroom Management"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Classroom Management"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "21st‑Century Teaching Skills",
+                "Social‑Emotional Learning"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Teacher Leadership"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Diverse Learners"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "1",
+                "2",
+                "3",
+                "…",
+                "28"
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "CLASSROOM MANAGEMENT INSTRUCTIONAL STRATEGIES TEACHER LEADERSHIP The Importance of Professional Development June 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "CLASSROOM MANAGEMENT End-of-Year Checklist for K–12 Teachers May 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "CLASSROOM MANAGEMENT The First 10 Minutes: Routines That Make or Break Your Day April 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "CLASSROOM MANAGEMENT End-of-Year Reflections for Educators April 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "21ST‑CENTURY TEACHING SKILLS SOCIAL‑EMOTIONAL LEARNING Teach Students How to Argue - Not Bicker March 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "TEACHER LEADERSHIP Navigating the Emotional Toll of Teaching K-12 Students March 2026",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "article-card__header"
+      ],
+      "childCount": 3,
+      "innerText": "DIVERSE LEARNERS Beyond February: Literature That Amplifies Black Voices in Every Classroom February 2026",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": "navigation",
+      "id": null,
+      "classes": [
+        "pagination"
+      ],
+      "childCount": 1,
+      "innerText": "1 2 3 … 28",
+      "children": []
+    },
+    {
+      "tag": "footer",
+      "role": null,
+      "id": null,
+      "classes": [
+        "footer",
+        "color-inverse"
+      ],
+      "childCount": 2,
+      "innerText": "CE CREDITS ONLINE 23224 NE 156th Pl. Woodinville, WA 98077 Phone: 425.788.7275 support@cecreditsonline.org HAVE QUESTIONS? You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you! COURSES UNIVERSITY PARTNERS ABOUT FAQ'S BLOG WHAT TEACHERS SAY ABOUT US SUPPORT PRIVACY POLICY REFUND POLICY TERMS OF SERVICE DO NOT SELL MY DATA DATA REQUESTS COOKIE SETTINGS",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "footer__content-top",
+            "container"
+          ],
+          "headline": "CE CREDITS ONLINE",
+          "wordCount": 101,
+          "body": [
+            "23224 NE 156th Pl.Woodinville, WA 98077Phone: 425.788.7275support@cecreditsonline.org",
+            "You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you!"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            }
+          ],
+          "qa": [
+            {
+              "q": "Quick links",
+              "a": "Courses University Partners About FAQ's Blog What teachers say about us"
+            },
+            {
+              "q": "Quick links",
+              "a": "Support Privacy Policy Refund Policy Terms of Service Do not sell my data Data Requests Cookie Settings"
+            }
+          ],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(245, 243, 237, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "pandectes-cmp",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "needsclick"
+      ],
+      "childCount": 0,
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Search",
+      "href": null,
+      "tag": "button",
+      "domPath": "section#shopify-section-template--16584647540956__main > div.main-blog > div.template-search__search > form.search > div.field > button.search__button",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(45, 45, 45, 0.75)",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/pages/subscribe-to-our-newsletter",
+        "text": "Subscribe and Save! *",
+        "full": "https://www.cecreditsonline.org/pages/subscribe-to-our-newsletter"
+      },
+      {
+        "href": "/pages/courses",
+        "text": "Courses",
+        "full": "https://www.cecreditsonline.org/pages/courses"
+      },
+      {
+        "href": "/pages/university-partners",
+        "text": "University Partners",
+        "full": "https://www.cecreditsonline.org/pages/university-partners"
+      },
+      {
+        "href": "/blogs/news",
+        "text": "Blog",
+        "full": "https://www.cecreditsonline.org/blogs/news"
+      },
+      {
+        "href": "/pages/contact",
+        "text": "Support",
+        "full": "https://www.cecreditsonline.org/pages/contact"
+      },
+      {
+        "href": "/pages/about-us",
+        "text": "About Us",
+        "full": "https://www.cecreditsonline.org/pages/about-us"
+      },
+      {
+        "href": "/pages/faq",
+        "text": "FAQ",
+        "full": "https://www.cecreditsonline.org/pages/faq"
+      },
+      {
+        "href": "/account/login",
+        "text": "Log in",
+        "full": "https://www.cecreditsonline.org/account/login"
+      },
+      {
+        "href": "/account/register",
+        "text": "Create account",
+        "full": "https://www.cecreditsonline.org/account/register"
+      },
+      {
+        "href": "/",
+        "text": "",
+        "full": "https://www.cecreditsonline.org/"
+      },
+      {
+        "href": "/cart",
+        "text": "Cart",
+        "full": "https://www.cecreditsonline.org/cart"
+      },
+      {
+        "href": "/blogs/news/tagged/classroom-management",
+        "text": "CLASSROOM MANAGEMENT",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/classroom-management"
+      },
+      {
+        "href": "/blogs/news/tagged/instructional-strategies",
+        "text": "INSTRUCTIONAL STRATEGIES",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/instructional-strategies"
+      },
+      {
+        "href": "/blogs/news/tagged/teacher-leadership",
+        "text": "TEACHER LEADERSHIP",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/teacher-leadership"
+      },
+      {
+        "href": "/blogs/news/the-importance-of-professional-development",
+        "text": "The Importance of Professional Development",
+        "full": "https://www.cecreditsonline.org/blogs/news/the-importance-of-professional-development"
+      },
+      {
+        "href": "/blogs/news/end-of-year-checklist-for-k-12-teachers",
+        "text": "End-of-Year Checklist for K–12 Teachers",
+        "full": "https://www.cecreditsonline.org/blogs/news/end-of-year-checklist-for-k-12-teachers"
+      },
+      {
+        "href": "/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day",
+        "text": "The First 10 Minutes: Routines That Make or Break Your Day",
+        "full": "https://www.cecreditsonline.org/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day"
+      },
+      {
+        "href": "/blogs/news/end-of-year-reflections-for-educators",
+        "text": "End-of-Year Reflections for Educators",
+        "full": "https://www.cecreditsonline.org/blogs/news/end-of-year-reflections-for-educators"
+      },
+      {
+        "href": "/blogs/news/tagged/21st-century-teaching-skills",
+        "text": "21ST‑CENTURY TEACHING SKILLS",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/21st-century-teaching-skills"
+      },
+      {
+        "href": "/blogs/news/tagged/social-emotional-learning",
+        "text": "SOCIAL‑EMOTIONAL LEARNING",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/social-emotional-learning"
+      },
+      {
+        "href": "/blogs/news/teach-students-how-to-argue-not-bicker",
+        "text": "Teach Students How to Argue - Not Bicker",
+        "full": "https://www.cecreditsonline.org/blogs/news/teach-students-how-to-argue-not-bicker"
+      },
+      {
+        "href": "/blogs/news/navigating-the-emotional-toll-of-teaching-k-12-students",
+        "text": "Navigating the Emotional Toll of Teaching K-12 Students",
+        "full": "https://www.cecreditsonline.org/blogs/news/navigating-the-emotional-toll-of-teaching-k-12-students"
+      },
+      {
+        "href": "/blogs/news/tagged/diverse-learners",
+        "text": "DIVERSE LEARNERS",
+        "full": "https://www.cecreditsonline.org/blogs/news/tagged/diverse-learners"
+      },
+      {
+        "href": "/blogs/news/beyond-february-literature-that-amplifies-black-voices-in-every-classroom",
+        "text": "Beyond February: Literature That Amplifies Black Voices in Every Classroom",
+        "full": "https://www.cecreditsonline.org/blogs/news/beyond-february-literature-that-amplifies-black-voices-in-every-classroom"
+      },
+      {
+        "href": "/blogs/news?page=2",
+        "text": "2",
+        "full": "https://www.cecreditsonline.org/blogs/news?page=2"
+      },
+      {
+        "href": "/blogs/news?page=3",
+        "text": "3",
+        "full": "https://www.cecreditsonline.org/blogs/news?page=3"
+      },
+      {
+        "href": "/blogs/news?page=28",
+        "text": "28",
+        "full": "https://www.cecreditsonline.org/blogs/news?page=28"
+      },
+      {
+        "href": "/pages/what-teachers-say-about-ce-credits-online",
+        "text": "What teachers say about us",
+        "full": "https://www.cecreditsonline.org/pages/what-teachers-say-about-ce-credits-online"
+      },
+      {
+        "href": "/pages/privacy-policy",
+        "text": "Privacy Policy",
+        "full": "https://www.cecreditsonline.org/pages/privacy-policy"
+      },
+      {
+        "href": "/pages/refund-policy",
+        "text": "Refund Policy",
+        "full": "https://www.cecreditsonline.org/pages/refund-policy"
+      },
+      {
+        "href": "/policies/terms-of-service",
+        "text": "Terms of Service",
+        "full": "https://www.cecreditsonline.org/policies/terms-of-service"
+      },
+      {
+        "href": "/pages/dnsmpi",
+        "text": "Do not sell my data",
+        "full": "https://www.cecreditsonline.org/pages/dnsmpi"
+      },
+      {
+        "href": "/pages/data-requests",
+        "text": "Data Requests",
+        "full": "https://www.cecreditsonline.org/pages/data-requests"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=150 150w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=200 200w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250 250w",
+        "alt": "CE Credits Online",
+        "naturalWidth": 1440,
+        "naturalHeight": 264,
+        "rect": {
+          "w": 250,
+          "h": 46,
+          "top": 81
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=940 940w,//www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?v=1781021783&width=1066 1066w",
+        "alt": "The Importance of Professional Development",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 624,
+          "h": 416,
+          "top": 479
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=940 940w,//www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?v=1779812292&width=1066 1066w",
+        "alt": "End-of-Year Checklist for K–12 Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 479
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=940 940w,//www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?v=1776723754&width=1066 1066w",
+        "alt": "The First 10 Minutes: Routines That Make or Break Your Day",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 479
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=940",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/group-of-elementary-children-running-outside-schoo-2026-03-16-04-28-09-utc_7ca769a5-e1cc-4be2-8edd-137be40ee03e.jpg?v=1776120934&width=940 940w,",
+        "alt": "End-of-Year Reflections for Educators",
+        "naturalWidth": 534,
+        "naturalHeight": 355,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 942
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=940",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/black-woman-student-classroom-and-hand-for-questi-2026-01-09-09-26-33-utc_a56af714-605e-422a-8c4b-0d8ccd8bad71.jpg?v=1773790674&width=940 940w,",
+        "alt": "Teach Students How to Argue - Not Bicker",
+        "naturalWidth": 534,
+        "naturalHeight": 361,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 942
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=940",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/young-asian-student-man-sitting-at-desk-in-home-st-2026-01-07-06-35-11-utc.jpg?v=1772558435&width=940 940w,",
+        "alt": "Navigating the Emotional Toll of Teaching K-12 Students",
+        "naturalWidth": 534,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 942
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=940",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=165 165w,//www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=360 360w,//www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=533 533w,//www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=720 720w,//www.cecreditsonline.org/cdn/shop/articles/teacher-celebrating-with-children-black-history-mo-2026-01-09-00-44-00-utc_3bf9c295-56c4-4b83-8235-4f123d63041b.jpg?v=1773789432&width=940 940w,",
+        "alt": "Beyond February: Literature That Amplifies Black Voices in Every Classroom",
+        "naturalWidth": 534,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 288,
+          "h": 192,
+          "top": 942
+        }
+      }
+    ],
+    "inlineSvgs": [
+      {
+        "viewBox": null,
+        "domPath": "div#shopify-section-header > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 18 16",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 11 11",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div#menu-drawer > div.menu-drawer__inner-container > div.menu-drawer__navigation-container > div.menu-drawer__utility-links > a.button > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__column > div.header__icons > details-disclosure.header__account > details > summary.header__icon > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__icons > details-disclosure.header__account > details > div.header__account-modal > a.button > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 17",
+        "domPath": "a#cart-icon-bubble > svg",
+        "w": 15
+      },
+      {
+        "viewBox": null,
+        "domPath": "div.main-blog > div.template-search__search > form.search > div.field > button.search__button > svg",
+        "w": 25
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "nav.pagination > ul.pagination__list > li.infinite-next > a.pagination__item > span > svg",
+        "w": 25
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "nav.pagination > ul.pagination__list > li.infinite-next > a.pagination__item > span > svg",
+        "w": 25
+      },
+      {
+        "viewBox": "0 0 10 7",
+        "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 10 7",
+        "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > svg",
+        "w": 0
+      },
+      {
+        "viewBox": null,
+        "domPath": "div#cart-notification > div.cart-notification__header > button.cart-notification__close > svg",
+        "w": 0
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "iframes": []
+  },
+  "forms": [
+    {
+      "action": "/search",
+      "method": "get",
+      "fields": [
+        {
+          "type": "search",
+          "name": "q"
+        },
+        {
+          "type": "hidden",
+          "name": "options[prefix]"
+        }
+      ]
+    }
+  ],
+  "widgets": {
+    "modals": 2,
+    "accordions": 5,
+    "tabs": 0
+  },
+  "cssCustomProperties": [
+    {
+      "name": "--font-body-weight",
+      "value": "400"
+    },
+    {
+      "name": "--color-background-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--color-card-hover",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-base-background-2",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-secondary-text",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--font-heading-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--font-heading-card-letter-spacing",
+      "value": "-0.02em"
+    },
+    {
+      "name": "--color-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--alpha-button-border",
+      "value": "1"
+    },
+    {
+      "name": "--color-base-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--font-heading-letter-spacing",
+      "value": "0em"
+    },
+    {
+      "name": "--color-error",
+      "value": "185, 49, 49"
+    },
+    {
+      "name": "--color-base-outline-button-labels",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-button-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--font-heading-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-heading-card-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--color-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--alpha-link",
+      "value": ".5"
+    },
+    {
+      "name": "--color-badge-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-scondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--font-heading-card-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--font-heading-family",
+      "value": "\"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Ap"
+    },
+    {
+      "name": "--color-base-button-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--font-heading-card-weight",
+      "value": "600"
+    },
+    {
+      "name": "--color-foreground-secondary",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--color-title-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-base-background-1",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-announcement-bar",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-secondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--color-foreground",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-button-text",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--font-heading-card-style",
+      "value": "normal"
+    },
+    {
+      "name": "--color-foreground-title",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--font-header-menu-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--font-header-menu-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--payment-terms-background-color",
+      "value": "#f5f3ed"
+    },
+    {
+      "name": "--duration-long",
+      "value": ".5s"
+    },
+    {
+      "name": "--font-button-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--font-header-menu-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-body-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--font-button-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-heading-weight",
+      "value": "400"
+    },
+    {
+      "name": "--font-heading-card-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--duration-default",
+      "value": ".25s"
+    },
+    {
+      "name": "--color-button",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-base-solid-button-labels",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--duration-short",
+      "value": ".1s"
+    },
+    {
+      "name": "--alpha-badge-border",
+      "value": ".1"
+    },
+    {
+      "name": "--alpha-button-background",
+      "value": "1"
+    },
+    {
+      "name": "--color-announcement-bar-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-link",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-button-weight",
+      "value": "700"
+    },
+    {
+      "name": "--font-header-menu-weight",
+      "value": "500"
+    },
+    {
+      "name": "--font-body-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-body-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--color-badge-border",
+      "value": "45, 45, 45"
+    }
+  ],
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "main",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "footer",
+      "bg": null
+    },
+    {
+      "landmark": "pandectes-cmp",
+      "bg": null
+    }
+  ],
+  "stats": {
+    "wordCount": 477,
+    "ctaCount": 1,
+    "internalLinkCount": 72,
+    "externalLinkCount": 0,
+    "imageCount": 8
+  },
+  "screenshot": "stardust/current/assets/screenshots/blogs-news.png"
+}

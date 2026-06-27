@@ -1,0 +1,109 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T15:14:53.232Z"
+  },
+  "discovery": {
+    "origin": "https://www.cecreditsonline.org",
+    "source": "sitemap.xml",
+    "fetchTechnique": "headless-chromium"
+  },
+  "consent": {
+    "method": "none-detected"
+  },
+  "crawl": {
+    "failures": [],
+    "successes": [
+      {
+        "slug": "index",
+        "waitMode": "medium",
+        "waitMs": 3951,
+        "fetchedAt": "2026-06-27T15:14:54.134Z",
+        "httpStatus": 200,
+        "imgs": 15,
+        "bg": 0
+      },
+      {
+        "slug": "products-abcs-of-virtual-teaching",
+        "waitMode": "medium",
+        "waitMs": 4328,
+        "fetchedAt": "2026-06-27T15:14:59.404Z",
+        "httpStatus": 200,
+        "imgs": 2,
+        "bg": 0
+      },
+      {
+        "slug": "collections-courses",
+        "waitMode": "medium",
+        "waitMs": 4283,
+        "fetchedAt": "2026-06-27T15:15:04.037Z",
+        "httpStatus": 200,
+        "imgs": 19,
+        "bg": 0
+      },
+      {
+        "slug": "pages-about-us",
+        "waitMode": "medium",
+        "waitMs": 3980,
+        "fetchedAt": "2026-06-27T15:15:09.790Z",
+        "httpStatus": 200,
+        "imgs": 2,
+        "bg": 0
+      },
+      {
+        "slug": "pages-how-to-earn-pd-credits",
+        "waitMode": "medium",
+        "waitMs": 4120,
+        "fetchedAt": "2026-06-27T15:15:13.995Z",
+        "httpStatus": 200,
+        "imgs": 1,
+        "bg": 0
+      },
+      {
+        "slug": "blogs-news",
+        "waitMode": "medium",
+        "waitMs": 4135,
+        "fetchedAt": "2026-06-27T15:15:18.464Z",
+        "httpStatus": 200,
+        "imgs": 8,
+        "bg": 0
+      },
+      {
+        "slug": "blogs-news-pi-day-activities",
+        "waitMode": "medium",
+        "waitMs": 4042,
+        "fetchedAt": "2026-06-27T15:15:23.146Z",
+        "httpStatus": 200,
+        "imgs": 2,
+        "bg": 0
+      },
+      {
+        "slug": "pages-faq",
+        "waitMode": "medium",
+        "waitMs": 4418,
+        "fetchedAt": "2026-06-27T15:15:27.875Z",
+        "httpStatus": 200,
+        "imgs": 1,
+        "bg": 0
+      },
+      {
+        "slug": "pages-contact",
+        "waitMode": "medium",
+        "waitMs": 4090,
+        "fetchedAt": "2026-06-27T15:15:32.822Z",
+        "httpStatus": 200,
+        "imgs": 1,
+        "bg": 0
+      },
+      {
+        "slug": "pages-courses",
+        "waitMode": "medium",
+        "waitMs": 4029,
+        "fetchedAt": "2026-06-27T15:15:37.062Z",
+        "httpStatus": 200,
+        "imgs": 1,
+        "bg": 0
+      }
+    ]
+  }
+}

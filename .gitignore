@@ -8,6 +8,18 @@ helix-importer-ui
 *.bak
 .idea
 
+# Stardust migration: secrets, QA artifacts, scratch samples
+.env*
+qa/
+samples/
+
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# impeccable hook cache
+**/.impeccable/
+
+# stardust diagnostic screenshots (regenerable, large)
+stardust/current/assets/screenshots/
+stardust/**/assets/screenshots/

@@ -1,0 +1,2094 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T15:15:09.744Z",
+    "readArtifacts": [
+      "https://www.cecreditsonline.org/collections/courses"
+    ],
+    "synthesizedInputs": [],
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T15:15:04.037Z",
+    "waitMode": "medium",
+    "waitMs": 4283,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://www.cecreditsonline.org/collections/courses"
+  },
+  "slug": "collections-courses",
+  "url": "https://www.cecreditsonline.org/collections/courses",
+  "finalUrl": "https://www.cecreditsonline.org/collections/courses",
+  "title": "Professional Development Courses for Teachers – CE Credits Online",
+  "metaDescription": "Self-paced, regionally accredited online courses for salary advancement &amp; recertification. Earn graduate level credit while managing work-life balance.",
+  "og": {
+    "title": "Professional Development Courses for Teachers",
+    "description": "Self-paced, regionally accredited online courses for salary advancement & recertification. Earn graduate level credit while managing work-life balance.",
+    "image": "http://www.cecreditsonline.org/cdn/shop/collections/professional-development-collection_f78cfdff-d50d-40e5-b3a9-15032833c56b.webp?v=1743037296",
+    "type": "product.group",
+    "siteName": "CE Credits Online"
+  },
+  "themeColor": {
+    "light": null
+  },
+  "language": "en",
+  "favicon": "https://www.cecreditsonline.org/cdn/shop/files/favicon.png?crop=center&height=32&v=1696454106&width=32",
+  "appleTouch": null,
+  "headings": [
+    {
+      "level": 5,
+      "text": "Courses By State",
+      "id": null,
+      "domPath": "div#courses-dropdown > div.heading > h5",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "18px",
+        "lineHeight": "20.7px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Collection: Online Professional Development Courses for K-12 Teachers",
+      "id": null,
+      "domPath": "div#shopify-section-template--16584647475420__banner > div.ch-container > div.collection-hero > div.collection-hero__inner > div.collection-hero__text-wrapper > h1.collection-hero__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "40px",
+        "lineHeight": "46px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Filter and sort",
+      "id": null,
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__header > div.mobile-facets__header-inner > h2.mobile-facets__heading",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "14px",
+        "lineHeight": "16.1px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Bridging Reading Gaps for English Learners",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "EL Assessment: A Teacher's Toolkit",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Advancing Listening Comprehension in English Learners",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Creating School Environments Free from Harassment, Intimidation and Bullying",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Building Classroom Culture",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "The Science of Reading",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Providing Effective Feedback to Foster Student Learning",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES)",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Classroom and Behavior Management Strategies that Work",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "ABC's of Virtual Teaching",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Getting Googled-Your Students Will Never Lose Their Homework Again",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Autism Advocate: Supporting Students with ASD",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Advocating for Students: The Special Education Process and Beyond",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Identifying and Removing Obstacles for Black Students with Special Needs",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Differentiating Instruction in the 21st Century Classroom",
+      "id": null,
+      "domPath": "ul#main-collection-product-grid > li.collection-product-card > div.card-wrapper > div.card-information > div.card-information__wrapper > h3.card__title",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "25px",
+        "lineHeight": "35px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "CE CREDITS ONLINE",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "HAVE QUESTIONS?",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Items in your cart",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__header > h2.cart-notification__heading",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Subtotal:",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__bottom > div.cart-notification__subtotal > div.totals__wrapper > div.totals > h3.totals__subtotal",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "announcement-bar",
+        "color-inverse"
+      ],
+      "childCount": 1,
+      "innerText": "Subscribe and Save! *",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header",
+        "header--top-center",
+        "container",
+        "header--has-menu"
+      ],
+      "childCount": 5,
+      "innerText": "Courses University Partners Blog Support About Us FAQ Log in Create account Cart",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "header__column"
+          ],
+          "headline": null,
+          "wordCount": 5,
+          "body": [],
+          "lists": [],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "menu-drawer__navigation"
+      ],
+      "childCount": 1,
+      "innerText": "console.log(\"Courses\") Courses Courses By State console.log(\"University Partners\") University Partners console.log(\"Blog\") Blog console.log(\"Support\") Support console.log(\"About Us\") About Us console.log(\"FAQ\") FAQ",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Courses University Partners Blog",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Support About Us FAQ",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "MainContent",
+      "classes": [
+        "content-for-layout",
+        "focus-none"
+      ],
+      "childCount": 2,
+      "innerText": "Collection: Online Professional Development Courses for K-12 Teachers Certificate Included Accepted by most districts 100% Online Self-paced · 180 days to complete University Credits Optional add-on at checkout CE Credits Online offers fully online, self-paced professional development courses for K-12 teachers. Complete a course and receive a Certificate of Completion — or add university graduate credits at checkout for an official transcript from one of our accredited university partners. HOW TO EARN PD CREDITS Our courses are accepted for CEUs, Salary Points, In-Service Points, Lane Credits, Clock Hours, and Graduate-Level University Credits depending on your state and district. Check the Credits Tab on any course page for details specific to your location. Not sure if your district will accept the credits? Download the course syllabus — you'll find the link on the course page below the Add to Cart button — and share it with your professional development department before purchasing. Join thousands of teachers who've advanced their careers with CE Credits Online. Read what teachers say → Choosing your enrollment type: Need a Certificate of Completion only? Choose Course Only in the Type dropdown. Need an official university transcript? Choose University Credits. See our University Partners page for details on our regionally accredited partners. For the full process visit our How to Earn PD Credits page. Questions? Check our FAQs or email support@cecreditsonline.org. NUMBER OF CREDITS 0 selected Reset 1 (5) 2 (1) 3 (39) SUBJECT 0 selected Reset 21st Century Skills (7) Classroom Management (6) Distance Learning (1) Diverse Student Populations (2) ELA (1) ELL (7) Exceptional Students (3) Family Engagement (3) Instructional Strategies (27) Math (1) Mindfulness (3) Physical Education (2) Reading (2) Social/Emotional Learning (7) Special Education (1) Technology (6) APPLY Alphabetically, A-Z Alphabetically, Z-A Bridging Reading Gaps for English Learners Bridging Reading Gaps for English Learners QUICK VIEW NEW! Bridging Reading Gaps for English Learners Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging QUICK VIEW NEW! Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 EL Assessment: A Teacher's Toolkit EL Assessment: A Teacher's Toolkit QUICK VIEW NEW! EL Assessment: A Teacher's Toolkit Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Advancing Listening Comprehension in English Learners Advancing Listening Comprehension in English Learners QUICK VIEW NEW! Advancing Listening Comprehension in English Learners Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Creating School Environments Free from Harassment, Intimidation and Bullying Creating School Environments Free from Harassment, Intimidation and Bullying QUICK VIEW Creating School Environments Free from Harassment, Intimidation and Bullying Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Building Classroom Culture Building Classroom Culture QUICK VIEW NEW! Building Classroom Culture Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 The Science of Reading The Science of Reading QUICK VIEW NEW! The Science of Reading Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Providing Effective Feedback to Foster Student Learning Providing Effective Feedback to Foster Student Learning QUICK VIEW Providing Effective Feedback to Foster Student Learning Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) QUICK VIEW Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces QUICK VIEW A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Classroom and Behavior Management Strategies that Work Classroom and Behavior Management Strategies that Work QUICK VIEW Classroom and Behavior Management Strategies that Work Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 ABC's of Virtual Teaching ABC's of Virtual Teaching QUICK VIEW ABC's of Virtual Teaching Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Getting Googled-Your Students Will Never Lose Their Homework Again Getting Googled-Your Students Will Never Lose Their Homework Again QUICK VIEW Getting Googled-Your Students Will Never Lose Their Homework Again Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Autism Advocate: Supporting Students with ASD Autism Advocate: Supporting Students with ASD QUICK VIEW NEW! Autism Advocate: Supporting Students with ASD Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Advocating for Students: The Special Education Process and Beyond Advocating for Students: The Special Education Process and Beyond QUICK VIEW Advocating for Students: The Special Education Process and Beyond Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Identifying and Removing Obstacles for Black Students with Special Needs Identifying and Removing Obstacles for Black Students with Special Needs QUICK VIEW Identifying and Removing Obstacles for Black Students with Special Needs Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement QUICK VIEW Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Differentiating Instruction in the 21st Century Classroom Differentiating Instruction in the 21st Century Classroom QUICK VIEW Differentiating Instruction in the 21st Century Classroom Certificate of Completion + University Credits Available 3 Credits / 45 Hours REGULAR PRICE FROM $199.00 Loading",
+      "children": [
+        {
+          "tag": "div",
+          "id": "shopify-section-template--16584647475420__banner",
+          "classes": [
+            "shopify-section",
+            "spaced-section"
+          ],
+          "headline": "Collection: Online Professional Development Courses for K-12 Teachers",
+          "wordCount": 224,
+          "body": [
+            "CE Credits Online offers fully online, self-paced professional development courses for K-12 teachers. Complete a course and receive a Certificate of Completion — or add university graduate credits at checkout for an official transcript from one of our accredited university partners.",
+            "Our courses are accepted for CEUs, Salary Points, In-Service Points, Lane Credits, Clock Hours, and Graduate-Level University Credits depending on your state and district. Check the Credits Tab on any course page for details specific to your location.",
+            "Not sure if your district will accept the credits? Download the course syllabus — you'll find the link on the course page below the Add to Cart button — and share it with your professional development department before purchasing.",
+            "Join thousands of teachers who've advanced their careers with CE Credits Online. Read what teachers say →",
+            "Choosing your enrollment type:",
+            "For the full process visit our How to Earn PD Credits page. Questions? Check our FAQs or email support@cecreditsonline.org."
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Need a Certificate of Completion only? Choose Course Only in the Type dropdown.",
+                "Need an official university transcript? Choose University Credits. See our University Partners page for details on our regionally accredited partners."
+              ]
+            }
+          ],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        },
+        {
+          "tag": "div",
+          "id": "shopify-section-template--16584647475420__product-grid",
+          "classes": [
+            "shopify-section",
+            "collection-grid-section"
+          ],
+          "headline": "Filter and sort",
+          "wordCount": 787,
+          "body": [
+            "Showing 45 of 45 products",
+            "Showing 45 of 45 products",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours",
+            "Certificate of Completion + University Credits Available 3 Credits / 45 Hours"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "1 (5)",
+                "2 (1)",
+                "3 (39)"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "21st Century Skills (7)",
+                "Classroom Management (6)",
+                "Distance Learning (1)",
+                "Diverse Student Populations (2)",
+                "ELA (1)",
+                "ELL (7)",
+                "Exceptional Students (3)",
+                "Family Engagement (3)",
+                "Instructional Strategies (27)",
+                "Math (1)",
+                "Mindfulness (3)",
+                "Physical Education (2)",
+                "Reading (2)",
+                "Social/Emotional Learning (7)",
+                "Special Education (1)",
+                "Technology (6)"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "1 (5)",
+                "2 (1)",
+                "3 (39)"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "21st Century Skills (7)",
+                "Classroom Management (6)",
+                "Distance Learning (1)",
+                "Diverse Student Populations (2)",
+                "ELA (1)",
+                "ELL (7)",
+                "Equity (1)",
+                "Exceptional Students (3)",
+                "Family Engagement (3)",
+                "Instructional Strategies (27)",
+                "Math (1)",
+                "Mindfulness (3)",
+                "Physical Education (2)",
+                "Reading (2)",
+                "Social/Emotional Learning (7)",
+                "Special Education (1)",
+                "Technology (6)"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Bridging Reading Gaps for English Learners Bridging Reading Gaps for English Learners Quick view new! Bridging Reading Gaps for English Learners Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging Quick view new! Redesigning Physical Education: Student-Centered Approaches to Behavior and Belonging Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "EL Assessment: A Teacher's Toolkit EL Assessment: A Teacher's Toolkit Quick view new! EL Assessment: A Teacher's Toolkit Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Advancing Listening Comprehension in English Learners Advancing Listening Comprehension in English Learners Quick view new! Advancing Listening Comprehension in English Learners Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Creating School Environments Free from Harassment, Intimidation and Bullying Creating School Environments Free from Harassment, Intimidation and Bullying Quick view Creating School Environments Free from Harassment, Intimidation and Bullying Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Building Classroom Culture Building Classroom Culture Quick view new! Building Classroom Culture Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "The Science of Reading The Science of Reading Quick view new! The Science of Reading Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Providing Effective Feedback to Foster Student Learning Providing Effective Feedback to Foster Student Learning Quick view Providing Effective Feedback to Foster Student Learning Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) Quick view Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces Quick view A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Classroom and Behavior Management Strategies that Work Classroom and Behavior Management Strategies that Work Quick view Classroom and Behavior Management Strategies that Work Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "ABC's of Virtual Teaching ABC's of Virtual Teaching Quick view ABC's of Virtual Teaching Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Getting Googled-Your Students Will Never Lose Their Homework Again Getting Googled-Your Students Will Never Lose Their Homework Again Quick view Getting Googled-Your Students Will Never Lose Their Homework Again Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Autism Advocate: Supporting Students with ASD Autism Advocate: Supporting Students with ASD Quick view new! Autism Advocate: Supporting Students with ASD Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Advocating for Students: The Special Education Process and Beyond Advocating for Students: The Special Education Process and Beyond Quick view Advocating for Students: The Special Education Process and Beyond Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Identifying and Removing Obstacles for Black Students with Special Needs Identifying and Removing Obstacles for Black Students with Special Needs Quick view Identifying and Removing Obstacles for Black Students with Special Needs Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement Quick view Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation, and Achievement Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per",
+                "Differentiating Instruction in the 21st Century Classroom Differentiating Instruction in the 21st Century Classroom Quick view Differentiating Instruction in the 21st Century Classroom Certificate of Completion + University Credits Available 3 Credits / 45 Hours Regular price From $199.00 Sale price From $199.00 Regular price $199.00 Unit price / per"
+              ]
+            }
+          ],
+          "qa": [
+            {
+              "q": "Number of Credits",
+              "a": "0 selected Reset 1 (5) 2 (1) 3 (39)"
+            },
+            {
+              "q": "Subject",
+              "a": "0 selected Reset 21st Century Skills (7) Classroom Management (6) Distance Learning (1) Diverse Student Populations (2) ELA (1) ELL (7) Exceptional Students (3) Family Engagement (3) Instructional Strategies (27) Math (1) Mindfulness (3) Physical Education (2) Reading (2) Social/Emotional Learning (7) Special Education (1) Technology (6)"
+            },
+            {
+              "q": "Filter and sort",
+              "a": "Filter and sort Showing 45 of 45 products Number of Credits <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg> Number of Credits 1 (5) 2 (1) 3 (39) Clear Apply <button class=\"button button--primary\">Apply</button> Subject <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg> Subject 21st Century Skills (7) Classroom Management (6) Distance Learning (1) Diverse Student Populations (2) ELA (1) ELL (7) Equity (1) Exceptional Students (3) Family Engagement (3) Instructional Strategies (27) Math (1) Mindfulness (3) Physical Education (2) Reading (2) Social/Emotional Learning (7) Special Education (1) Technology (6) Clear Apply <button class=\"button button--primary\">Apply</button> Sort by FeaturedMost relevantBest sellingAlphabetically, A-ZAlphabetically, Z-APrice, low to highPrice, high to lowDate, old to newDate, new to old Clear Apply <button class=\"button button--primary\">Apply</button>"
+            },
+            {
+              "q": "Number of Credits <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg>",
+              "a": "Number of Credits 1 (5) 2 (1) 3 (39) Clear Apply <button class=\"button button--primary\">Apply</button>"
+            },
+            {
+              "q": "Subject <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg>",
+              "a": "Subject 21st Century Skills (7) Classroom Management (6) Distance Learning (1) Diverse Student Populations (2) ELA (1) ELL (7) Equity (1) Exceptional Students (3) Family Engagement (3) Instructional Strategies (27) Math (1) Mindfulness (3) Physical Education (2) Reading (2) Social/Emotional Learning (7) Special Education (1) Technology (6) Clear Apply <button class=\"button button--primary\">Apply</button>"
+            }
+          ],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "role": null,
+      "id": null,
+      "classes": [
+        "footer",
+        "color-inverse"
+      ],
+      "childCount": 2,
+      "innerText": "CE CREDITS ONLINE 23224 NE 156th Pl. Woodinville, WA 98077 Phone: 425.788.7275 support@cecreditsonline.org HAVE QUESTIONS? You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you! COURSES UNIVERSITY PARTNERS ABOUT FAQ'S BLOG WHAT TEACHERS SAY ABOUT US SUPPORT PRIVACY POLICY REFUND POLICY TERMS OF SERVICE DO NOT SELL MY DATA DATA REQUESTS COOKIE SETTINGS",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "footer__content-top",
+            "container"
+          ],
+          "headline": "CE CREDITS ONLINE",
+          "wordCount": 101,
+          "body": [
+            "23224 NE 156th Pl.Woodinville, WA 98077Phone: 425.788.7275support@cecreditsonline.org",
+            "You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you!"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            }
+          ],
+          "qa": [
+            {
+              "q": "Quick links",
+              "a": "Courses University Partners About FAQ's Blog What teachers say about us"
+            },
+            {
+              "q": "Quick links",
+              "a": "Support Privacy Policy Refund Policy Terms of Service Do not sell my data Data Requests Cookie Settings"
+            }
+          ],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(245, 243, 237, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "pandectes-cmp",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "needsclick"
+      ],
+      "childCount": 0,
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "HOW TO EARN PD CREDITS",
+      "href": "/pages/how-to-earn-pd-credits",
+      "tag": "a",
+      "domPath": "div.collection-hero > div.collection-hero__inner > div.collection-hero__text-wrapper > div.collection-hero__description > div.ch-cta-wrap > a.ch-cta-btn",
+      "style": {
+        "backgroundColor": "rgb(45, 45, 45)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "600",
+        "borderRadius": "4px",
+        "padding": "11px 22px 11px 22px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "APPLY",
+      "href": null,
+      "tag": "button",
+      "domPath": "form#CollectionFiltersForm > div.facets__container > div.facets__wrapper > button.facets__button",
+      "style": {
+        "backgroundColor": "rgb(65, 93, 67)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "600",
+        "borderRadius": "0px",
+        "padding": "14px 20px 14px 20px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Filter and sort",
+      "href": null,
+      "tag": "summary",
+      "domPath": "div#main-collection-filters > menu-drawer.mobile-facets__wrapper > details.disclosure-has-popup > summary",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(45, 45, 45, 0.75)",
+        "fontFamily": "Figtree, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 0px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Number of Credits <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg>",
+      "href": null,
+      "tag": "summary",
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > summary.mobile-facets__summary",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(45, 45, 45, 0.75)",
+        "fontFamily": "Figtree, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "13px 25px 13px 25px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Number of Credits",
+      "href": null,
+      "tag": "button",
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > div.mobile-facets__submenu > button.mobile-facets__close-button",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(45, 45, 45)",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "12px 26px 12px 26px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > div.mobile-facets__submenu > div.no-js-hidden > button.no-js-hidden",
+      "style": {
+        "backgroundColor": "rgb(65, 93, 67)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "600",
+        "borderRadius": "0px",
+        "padding": "9px 20px 11px 20px",
+        "boxShadow": "rgb(65, 93, 67) 0px 0px 0px 1px"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Subject <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-caret\" viewBox=\"0 0 10 7\"> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.29289 5L5 5.70711L5.70711 5L9 1.70711L8.29289 1L5 4.29289L1.70711 1L1 1.70711L4.29289 5Z\" fill=\"currentColor\"/> <path d=\"M5 5.70711L4.64645 6.06066L5 6.41421L5.35355 6.06066L5 5.70711ZM4.29289 5L3.93934 5.35355H3.93934L4.29289 5ZM5.70711 5L5.35355 4.64645V4.64645L5.70711 5ZM9 1.70711L9.35355 2.06066L9.70711 1.70711L9.35355 1.35355L9 1.70711ZM8.29289 1L8.64645 0.646447L8.29289 0.292893L7.93934 0.646447L8.29289 1ZM5 4.29289L4.64645 4.64645L5 5L5.35355 4.64645L5 4.29289ZM1.70711 1L2.06066 0.646447L1.70711 0.292893L1.35355 0.646447L1.70711 1ZM1 1.70711L0.646447 1.35355L0.292893 1.70711L0.646447 2.06066L1 1.70711ZM5.35355 5.35355L4.64645 4.64645L3.93934 5.35355L4.64645 6.06066L5.35355 5.35355ZM5.35355 4.64645L4.64645 5.35355L5.35355 6.06066L6.06066 5.35355L5.35355 4.64645ZM8.64645 1.35355L5.35355 4.64645L6.06066 5.35355L9.35355 2.06066L8.64645 1.35355ZM7.93934 1.35355L8.64645 2.06066L9.35355 1.35355L8.64645 0.646447L7.93934 1.35355ZM5.35355 4.64645L8.64645 1.35355L7.93934 0.646447L4.64645 3.93934L5.35355 4.64645ZM1.35355 1.35355L4.64645 4.64645L5.35355 3.93934L2.06066 0.646447L1.35355 1.35355ZM1.35355 2.06066L2.06066 1.35355L1.35355 0.646447L0.646447 1.35355L1.35355 2.06066ZM4.64645 4.64645L1.35355 1.35355L0.646447 2.06066L3.93934 5.35355L4.64645 4.64645Z\" fill=\"currentColor\"/> </svg>",
+      "href": null,
+      "tag": "summary",
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > summary.mobile-facets__summary",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgba(45, 45, 45, 0.75)",
+        "fontFamily": "Figtree, sans-serif",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "13px 25px 13px 25px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Subject",
+      "href": null,
+      "tag": "button",
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > div.mobile-facets__submenu > button.mobile-facets__close-button",
+      "style": {
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(45, 45, 45)",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "borderRadius": "0px",
+        "padding": "12px 26px 12px 26px",
+        "boxShadow": "none"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "tag": "button",
+      "domPath": "div.mobile-facets__inner > div.mobile-facets__main > details.mobile-facets__details > div.mobile-facets__submenu > div.no-js-hidden > button.no-js-hidden",
+      "style": {
+        "backgroundColor": "rgb(65, 93, 67)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "600",
+        "borderRadius": "0px",
+        "padding": "9px 20px 11px 20px",
+        "boxShadow": "rgb(65, 93, 67) 0px 0px 0px 1px"
+      },
+      "appearsAbove": "fold"
+    },
+    {
+      "label": "Apply",
+      "href": null,
+      "tag": "button",
+      "domPath": "form#CollectionFiltersFormMobile > div.mobile-facets__inner > div.mobile-facets__main > div.mobile-facets__footer > button.no-js-hidden",
+      "style": {
+        "backgroundColor": "rgb(65, 93, 67)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "600",
+        "borderRadius": "0px",
+        "padding": "9px 20px 11px 20px",
+        "boxShadow": "rgb(65, 93, 67) 0px 0px 0px 1px"
+      },
+      "appearsAbove": "fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/pages/subscribe-to-our-newsletter",
+        "text": "Subscribe and Save! *",
+        "full": "https://www.cecreditsonline.org/pages/subscribe-to-our-newsletter"
+      },
+      {
+        "href": "/pages/courses",
+        "text": "Courses",
+        "full": "https://www.cecreditsonline.org/pages/courses"
+      },
+      {
+        "href": "/pages/university-partners",
+        "text": "University Partners",
+        "full": "https://www.cecreditsonline.org/pages/university-partners"
+      },
+      {
+        "href": "/blogs/news",
+        "text": "Blog",
+        "full": "https://www.cecreditsonline.org/blogs/news"
+      },
+      {
+        "href": "/pages/contact",
+        "text": "Support",
+        "full": "https://www.cecreditsonline.org/pages/contact"
+      },
+      {
+        "href": "/pages/about-us",
+        "text": "About Us",
+        "full": "https://www.cecreditsonline.org/pages/about-us"
+      },
+      {
+        "href": "/pages/faq",
+        "text": "FAQ",
+        "full": "https://www.cecreditsonline.org/pages/faq"
+      },
+      {
+        "href": "/account/login",
+        "text": "Log in",
+        "full": "https://www.cecreditsonline.org/account/login"
+      },
+      {
+        "href": "/account/register",
+        "text": "Create account",
+        "full": "https://www.cecreditsonline.org/account/register"
+      },
+      {
+        "href": "/",
+        "text": "",
+        "full": "https://www.cecreditsonline.org/"
+      },
+      {
+        "href": "/cart",
+        "text": "Cart",
+        "full": "https://www.cecreditsonline.org/cart"
+      },
+      {
+        "href": "/pages/how-to-earn-pd-credits",
+        "text": "HOW TO EARN PD CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-pd-credits"
+      },
+      {
+        "href": "/pages/what-teachers-say-about-ce-credits-online",
+        "text": "Read what teachers say →",
+        "full": "https://www.cecreditsonline.org/pages/what-teachers-say-about-ce-credits-online"
+      },
+      {
+        "href": "/collections/courses",
+        "text": "Reset",
+        "full": "https://www.cecreditsonline.org/collections/courses"
+      },
+      {
+        "href": "/collections/courses?sort_by=manual",
+        "text": "Clear all",
+        "full": "https://www.cecreditsonline.org/collections/courses?sort_by=manual"
+      },
+      {
+        "href": "/collections/courses/products/bridging-reading-gaps-for-english-learners",
+        "text": "Bridging Reading Gaps for English Learners",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/bridging-reading-gaps-for-english-learners"
+      },
+      {
+        "href": "/collections/courses/products/redesigning-physical-education",
+        "text": "Redesigning Physical Education: Student-Centered Approaches to Behavior and Belo",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/redesigning-physical-education"
+      },
+      {
+        "href": "/collections/courses/products/el-assessment-a-teachers-toolkit",
+        "text": "EL Assessment: A Teacher's Toolkit",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/el-assessment-a-teachers-toolkit"
+      },
+      {
+        "href": "/collections/courses/products/advancing-listening-comprehension-in-english-learners",
+        "text": "Advancing Listening Comprehension in English Learners",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/advancing-listening-comprehension-in-english-learners"
+      },
+      {
+        "href": "/collections/courses/products/creating-school-environments-free-from-harassment-intimidation-and-bullying",
+        "text": "Creating School Environments Free from Harassment, Intimidation and Bullying",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/creating-school-environments-free-from-harassment-intimidation-and-bullying"
+      },
+      {
+        "href": "/collections/courses/products/building-classroom-culture",
+        "text": "Building Classroom Culture",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/building-classroom-culture"
+      },
+      {
+        "href": "/collections/courses/products/the-science-of-reading",
+        "text": "The Science of Reading",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/the-science-of-reading"
+      },
+      {
+        "href": "/collections/courses/products/providing-effective-feedback-to-foster-student-learning",
+        "text": "Providing Effective Feedback to Foster Student Learning",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/providing-effective-feedback-to-foster-student-learning"
+      },
+      {
+        "href": "/collections/courses/products/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces",
+        "text": "Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACE",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces"
+      },
+      {
+        "href": "/collections/courses/products/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces",
+        "text": "A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learnin",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces"
+      },
+      {
+        "href": "/collections/courses/products/classroom-and-behavior-management-strategies-that-work",
+        "text": "Classroom and Behavior Management Strategies that Work",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/classroom-and-behavior-management-strategies-that-work"
+      },
+      {
+        "href": "/collections/courses/products/abcs-of-virtual-teaching",
+        "text": "ABC's of Virtual Teaching",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/abcs-of-virtual-teaching"
+      },
+      {
+        "href": "/collections/courses/products/getting-googled-your-students-will-never-lose-their-homework-again",
+        "text": "Getting Googled-Your Students Will Never Lose Their Homework Again",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/getting-googled-your-students-will-never-lose-their-homework-again"
+      },
+      {
+        "href": "/collections/courses/products/autism-advocate-supporting-students-with-asd",
+        "text": "Autism Advocate: Supporting Students with ASD",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/autism-advocate-supporting-students-with-asd"
+      },
+      {
+        "href": "/collections/courses/products/advocating-for-students-the-special-education-process-and-beyond",
+        "text": "Advocating for Students: The Special Education Process and Beyond",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/advocating-for-students-the-special-education-process-and-beyond"
+      },
+      {
+        "href": "/collections/courses/products/identifying-and-removing-obstacles-for-black-students-with-special-needs",
+        "text": "Identifying and Removing Obstacles for Black Students with Special Needs",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/identifying-and-removing-obstacles-for-black-students-with-special-needs"
+      },
+      {
+        "href": "/collections/courses/products/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement",
+        "text": "Developing Students' Mindfulness Practice to Support Engagement, Self-Regulation",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement"
+      },
+      {
+        "href": "/collections/courses/products/differentiating-instruction-in-the-21st-century-classroom",
+        "text": "Differentiating Instruction in the 21st Century Classroom",
+        "full": "https://www.cecreditsonline.org/collections/courses/products/differentiating-instruction-in-the-21st-century-classroom"
+      },
+      {
+        "href": "/collections/courses?page=4",
+        "text": "Loading",
+        "full": "https://www.cecreditsonline.org/collections/courses?page=4"
+      },
+      {
+        "href": "/pages/privacy-policy",
+        "text": "Privacy Policy",
+        "full": "https://www.cecreditsonline.org/pages/privacy-policy"
+      },
+      {
+        "href": "/pages/refund-policy",
+        "text": "Refund Policy",
+        "full": "https://www.cecreditsonline.org/pages/refund-policy"
+      },
+      {
+        "href": "/policies/terms-of-service",
+        "text": "Terms of Service",
+        "full": "https://www.cecreditsonline.org/policies/terms-of-service"
+      },
+      {
+        "href": "/pages/dnsmpi",
+        "text": "Do not sell my data",
+        "full": "https://www.cecreditsonline.org/pages/dnsmpi"
+      },
+      {
+        "href": "/pages/data-requests",
+        "text": "Data Requests",
+        "full": "https://www.cecreditsonline.org/pages/data-requests"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=150 150w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=200 200w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250 250w",
+        "alt": "CE Credits Online",
+        "naturalWidth": 1440,
+        "naturalHeight": 264,
+        "rect": {
+          "w": 250,
+          "h": 46,
+          "top": 81
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/bridging-english-gaps.jpg?v=1774901776&width=1066 1066w",
+        "alt": "Bridging Reading Gaps for English Learners",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 976
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/RedesigningPhysicalEducationStudent-CenteredApproachestoBehaviorand-Belonging.jpg?v=1762207087&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/RedesigningPhysicalEducationStudent-CenteredApproachestoBehaviorand-Belonging.jpg?v=1762207087&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/RedesigningPhysicalEducationStudent-CenteredApproachestoBehaviorand-Belonging.jpg?v=1762207087&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/RedesigningPhysicalEducationStudent-CenteredApproachestoBehaviorand-Belonging.jpg?v=1762207087&width=533 533w,",
+        "alt": "Teacher with students in a gymnasium",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 976
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/shopify-EL-Assessment-A-Teacher_s-Toolkit_1.jpg?v=1744995126&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/shopify-EL-Assessment-A-Teacher_s-Toolkit_1.jpg?v=1744995126&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/shopify-EL-Assessment-A-Teacher_s-Toolkit_1.jpg?v=1744995126&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/shopify-EL-Assessment-A-Teacher_s-Toolkit_1.jpg?v=1744995126&width=533 533w,",
+        "alt": "A young child smiling while engaging in an activity with an adult's hand, possibly drawing or writing with a pencil.",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 976
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/AdvancingListeningComprehensioninEnglishLearners.jpg?v=1743010902&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/AdvancingListeningComprehensioninEnglishLearners.jpg?v=1743010902&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/AdvancingListeningComprehensioninEnglishLearners.jpg?v=1743010902&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/AdvancingListeningComprehensioninEnglishLearners.jpg?v=1743010902&width=533 533w,",
+        "alt": "Advancing Listening Comprehension in English Learners course for K-12 teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 1603
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/creating-school-environments-free-from-harassment-intimidation-and-bullying1_28740ec1-c866-41b2-a564-462c32c8cd4b.png?v=1743011674&width=1066 1066w",
+        "alt": "Creating School Environments Free from Harassment, Intimidation and Bullying Course for Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 1603
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/building-classroom-culture_1.jpg?v=1743011502&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/building-classroom-culture_1.jpg?v=1743011502&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/building-classroom-culture_1.jpg?v=1743011502&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/building-classroom-culture_1.jpg?v=1743011502&width=533 533w,",
+        "alt": "Building Classroom Culture course for K-12 Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 1603
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/the-science-of-reading_8a94c6ed-f5bd-4fe0-89dc-0a78fc0a7c3a.jpg?v=1743036776&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/the-science-of-reading_8a94c6ed-f5bd-4fe0-89dc-0a78fc0a7c3a.jpg?v=1743036776&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/the-science-of-reading_8a94c6ed-f5bd-4fe0-89dc-0a78fc0a7c3a.jpg?v=1743036776&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/the-science-of-reading_8a94c6ed-f5bd-4fe0-89dc-0a78fc0a7c3a.jpg?v=1743036776&width=533 533w,",
+        "alt": "The Science of Reading course for Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2230
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/providing-effective-feedback-to-foster-student-learning1_abb5b78a-91d9-461f-9d49-3dd8a65cb481.png?v=1743036669&width=1066 1066w",
+        "alt": "Providing Effective Feedback to Foster Student Learning K-12 teachers professional development course",
+        "naturalWidth": 535,
+        "naturalHeight": 355,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2230
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/creating-compassionate-classrooms-overcoming-adverse-childhood-experiences-aces_9d92b895-433a-43fa-8c91-55f2b645ec94.jpg?v=1743011615&width=1066 1066w",
+        "alt": "Creating Compassionate Classrooms: Overcoming Adverse Childhood Experiences (ACES) course for Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2230
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/a-mindful-pedagogy-strategies-for-creating-compassionate-and-purposeful-learning-spaces1_e52c9411-0262-467d-b157-af92f68880f0.png?v=1744853380&width=1066 1066w",
+        "alt": "A Mindful Pedagogy: Strategies for Creating Compassionate and Purposeful Learning Spaces K-12 teachers professional development course",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2856
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/classroom-and-behavior-management-strategies-that-work1_176f8dac-42d6-4230-b631-87c6a5ea4d38.png?v=1743010731&width=1066 1066w",
+        "alt": "Classroom and Behavior Management Strategies that Work for Teachers",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2856
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/abcs-of-virtual-teaching_b8693c24-df3a-448b-958d-5a6ae134b312.jpg?v=1743010836&width=1066 1066w",
+        "alt": "ABC's of Virtual Teaching K-12 teachers continuing education course",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 2856
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/getting-googled-your-students-will-never-lose-their-homework-again1_0a50cf49-05fe-4584-b691-1f7fb19893b5.png?v=1743036456&width=1066 1066w",
+        "alt": "Getting Googled-Your Students Will Never Lose Their Homework Again K-12 teachers professional development course",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 3483
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/autism-advocate-supporting-students-with-asd1_74311c3b-96eb-42a3-aa3f-60cb40ac30de.png?v=1743011412&width=1066 1066w",
+        "alt": "Autism Advocate: Supporting Students with ASD K-12 teachers professional development course",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 3483
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=1066",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/advocating-for-students-the-special-education-process-and-beyond1_d5852a70-a454-4ff9-9938-44ec7e965c0c.png?v=1743011216&width=1066 1066w",
+        "alt": "Advocating for Students: The Special Education Process and Beyond K-12 teachers professional development course",
+        "naturalWidth": 535,
+        "naturalHeight": 356,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 3483
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/identifying-and-removing-obstacles-for-black-students-with-special-needs1_23091783-294c-450f-8b6d-d04ca0caa25e.png?v=1743036457&width=1066 1066w",
+        "alt": "Identifying and Removing Obstacles for Black Students with Special Needs course for Teachers",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 4110
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement_2.webp?v=1743035931&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement_2.webp?v=1743035931&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement_2.webp?v=1743035931&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/developing-students-mindfulness-practice-to-support-engagement-self-regulation-and-achievement_2.webp?v=1743035931&width=533 533w,",
+        "alt": "A group of students engaged in a mindfulness activity, sitting cross-legged on yoga mats in a colorful indoor gymnasium.",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 4110
+        }
+      },
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=533",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=165 165w,//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=360 360w,//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=533 533w,//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=720 720w,//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=940 940w,//www.cecreditsonline.org/cdn/shop/files/differentiating-instruction-in-the-21st-century-classroom1_b8258e99-061d-415d-9388-202350c8490c.png?v=1743036183&width=1066 1066w",
+        "alt": "Products Differentiating Instruction in the 21st Century Classroom - K-12 teachers professional development course",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "rect": {
+          "w": 365,
+          "h": 416,
+          "top": 4110
+        }
+      }
+    ],
+    "inlineSvgs": [
+      {
+        "viewBox": null,
+        "domPath": "div#shopify-section-header > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 18 16",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 11 11",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div#menu-drawer > div.menu-drawer__inner-container > div.menu-drawer__navigation-container > div.menu-drawer__utility-links > a.button > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__column > div.header__icons > details-disclosure.header__account > details > summary.header__icon > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__icons > details-disclosure.header__account > details > div.header__account-modal > a.button > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 17",
+        "domPath": "a#cart-icon-bubble > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 32 32",
+        "domPath": "div.collection-hero__text-wrapper > div.collection-hero__description > div.ch-trust-bar > div.ch-trust-item > div.ch-trust-item__icon > svg",
+        "w": 32
+      },
+      {
+        "viewBox": "0 0 32 32",
+        "domPath": "div.collection-hero__text-wrapper > div.collection-hero__description > div.ch-trust-bar > div.ch-trust-item > div.ch-trust-item__icon > svg",
+        "w": 32
+      },
+      {
+        "viewBox": "0 0 32 32",
+        "domPath": "div.collection-hero__text-wrapper > div.collection-hero__description > div.ch-trust-bar > div.ch-trust-item > div.ch-trust-item__icon > svg",
+        "w": 32
+      },
+      {
+        "viewBox": "0 0 14 10",
+        "domPath": "div.collection-hero__inner > div.collection-hero__text-wrapper > div.collection-hero__description > div.ch-cta-wrap > a.ch-cta-btn > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "div.facets__container > div.facets__wrapper > details.disclosure-has-popup > summary.facets__summary > div.facets__summary-inner > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "div.facets__container > div.facets__wrapper > details.disclosure-has-popup > summary.facets__summary > div.facets__summary-inner > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      },
+      {
+        "viewBox": "0 0 9 7",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 9
+      },
+      {
+        "viewBox": "0 0 20 20",
+        "domPath": "details.disclosure-has-popup > div.facets__display > ul.facets__list > li.list-menu__item > label.facet-checkbox > svg",
+        "w": 20
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "iframes": []
+  },
+  "forms": [
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "select-one",
+          "name": "sort_by"
+        }
+      ]
+    },
+    {
+      "action": null,
+      "method": "get",
+      "fields": [
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.v.m.custom_fields.credit"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "checkbox",
+          "name": "filter.p.tag"
+        },
+        {
+          "type": "select-one",
+          "name": "sort_by"
+        }
+      ]
+    }
+  ],
+  "widgets": {
+    "modals": 2,
+    "accordions": 15,
+    "tabs": 0
+  },
+  "cssCustomProperties": [
+    {
+      "name": "--border",
+      "value": "#ddd8cc"
+    },
+    {
+      "name": "--color-background-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--color-card-hover",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-base-background-2",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--font-heading-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--font-heading-card-letter-spacing",
+      "value": "-0.02em"
+    },
+    {
+      "name": "--green-light",
+      "value": "#e8efe8"
+    },
+    {
+      "name": "--color-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--alpha-button-border",
+      "value": "1"
+    },
+    {
+      "name": "--font-button-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--font-heading-style",
+      "value": "normal"
+    },
+    {
+      "name": "--alpha-link",
+      "value": ".5"
+    },
+    {
+      "name": "--white",
+      "value": "#ffffff"
+    },
+    {
+      "name": "--cream",
+      "value": "#F5F3ED"
+    },
+    {
+      "name": "--font-heading-card-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--color-base-button-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--font-heading-card-weight",
+      "value": "600"
+    },
+    {
+      "name": "--color-foreground-secondary",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--color-base-background-1",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-secondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--green-dark",
+      "value": "#2d3d2e"
+    },
+    {
+      "name": "--font-header-menu-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--text-light",
+      "value": "#777"
+    },
+    {
+      "name": "--duration-long",
+      "value": ".5s"
+    },
+    {
+      "name": "--font-button-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--font-button-style",
+      "value": "normal"
+    },
+    {
+      "name": "--text-mid",
+      "value": "#555"
+    },
+    {
+      "name": "--alpha-button-background",
+      "value": "1"
+    },
+    {
+      "name": "--font-body-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-body-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--orange",
+      "value": "#BB6C26"
+    },
+    {
+      "name": "--font-body-weight",
+      "value": "400"
+    },
+    {
+      "name": "--color-secondary-text",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--color-base-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--font-heading-letter-spacing",
+      "value": "0em"
+    },
+    {
+      "name": "--color-error",
+      "value": "185, 49, 49"
+    },
+    {
+      "name": "--color-base-outline-button-labels",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-heading-card-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--color-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-badge-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-scondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--font-heading-family",
+      "value": "\"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Ap"
+    },
+    {
+      "name": "--color-announcement-bar",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-title-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-foreground",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-button-text",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--font-heading-card-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-header-menu-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--color-foreground-title",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--payment-terms-background-color",
+      "value": "#f5f3ed"
+    },
+    {
+      "name": "--font-header-menu-style",
+      "value": "normal"
+    },
+    {
+      "name": "--green-primary",
+      "value": "#415D43"
+    },
+    {
+      "name": "--font-body-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--font-heading-weight",
+      "value": "400"
+    },
+    {
+      "name": "--text-dark",
+      "value": "#2D2D2D"
+    },
+    {
+      "name": "--font-heading-card-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--duration-default",
+      "value": ".25s"
+    },
+    {
+      "name": "--color-button",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-base-solid-button-labels",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--duration-short",
+      "value": ".1s"
+    },
+    {
+      "name": "--alpha-badge-border",
+      "value": ".1"
+    },
+    {
+      "name": "--color-announcement-bar-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-link",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-button-weight",
+      "value": "700"
+    },
+    {
+      "name": "--font-header-menu-weight",
+      "value": "500"
+    },
+    {
+      "name": "--color-badge-border",
+      "value": "45, 45, 45"
+    }
+  ],
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "main",
+      "bg": null
+    },
+    {
+      "landmark": "footer",
+      "bg": null
+    },
+    {
+      "landmark": "pandectes-cmp",
+      "bg": null
+    }
+  ],
+  "stats": {
+    "wordCount": 1132,
+    "ctaCount": 10,
+    "internalLinkCount": 93,
+    "externalLinkCount": 0,
+    "imageCount": 19
+  },
+  "screenshot": "stardust/current/assets/screenshots/collections-courses.png"
+}

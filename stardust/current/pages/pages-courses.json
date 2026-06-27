@@ -1,0 +1,1455 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-06-27T15:15:41.480Z",
+    "readArtifacts": [
+      "https://www.cecreditsonline.org/pages/courses"
+    ],
+    "synthesizedInputs": [],
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-06-27T15:15:37.062Z",
+    "waitMode": "medium",
+    "waitMs": 4029,
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "finalUrl": "https://www.cecreditsonline.org/pages/courses"
+  },
+  "slug": "pages-courses",
+  "url": "https://www.cecreditsonline.org/pages/courses",
+  "finalUrl": "https://www.cecreditsonline.org/pages/courses",
+  "title": "Courses – CE Credits Online",
+  "metaDescription": "Online professional development courses for K-12 teachers in all 50 states. Approved partner programs available for select districts and states.",
+  "og": {
+    "title": "Courses",
+    "description": "Online professional development courses for K-12 teachers in all 50 states. Approved partner programs available for select districts and states.",
+    "image": "http://www.cecreditsonline.org/cdn/shop/files/Shopify.jpg?v=1773697835",
+    "type": "website",
+    "siteName": "CE Credits Online"
+  },
+  "themeColor": {
+    "light": null
+  },
+  "language": "en",
+  "favicon": "https://www.cecreditsonline.org/cdn/shop/files/favicon.png?crop=center&height=32&v=1696454106&width=32",
+  "appleTouch": null,
+  "headings": [
+    {
+      "level": 5,
+      "text": "Courses By State",
+      "id": null,
+      "domPath": "div#courses-dropdown > div.heading > h5",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "18px",
+        "lineHeight": "20.7px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 1,
+      "text": "Find PD Courses for Your State and District",
+      "id": null,
+      "domPath": "div#shopify-section-template--22609226989788__main > div.page-hero > div.page-hero__inner > div.page-hero__main > h1",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "36px",
+        "lineHeight": "43.2px",
+        "letterSpacing": "-0.36px",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Not sure where to start?",
+      "id": null,
+      "domPath": "div#shopify-section-template--22609226989788__main > div.page-hero > div.page-hero__inner > div.page-hero__support > h3",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "16.1px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Professional Development Courses Available in All 50 States",
+      "id": null,
+      "domPath": "div#shopify-section-template--22609226989788__main > div.courses-container > div.states-reference > div.states-reference__inner > h2",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "16px",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Still not sure which courses are right for you?",
+      "id": null,
+      "domPath": "div#shopify-section-template--22609226989788__main > div.courses-container > div.support-footer > div.support-footer__inner > div.support-footer__text > h3",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "600",
+        "fontSize": "14px",
+        "lineHeight": "16.1px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "CE CREDITS ONLINE",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "HAVE QUESTIONS?",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "div.footer__blocks-container > div.footer__blocks-wrapper > div.accordion > details > summary > h2.h4",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "2.5px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Quick links",
+      "id": null,
+      "domPath": "footer.footer > div.footer__content-top > div.footer__blocks-container > div.footer__blocks-wrapper > div.footer-block > h2.footer-block__heading",
+      "style": {
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": "700",
+        "fontSize": "13.5px",
+        "lineHeight": "15.525px",
+        "letterSpacing": "1.6875px",
+        "color": "rgb(245, 243, 237)"
+      }
+    },
+    {
+      "level": 2,
+      "text": "Items in your cart",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__header > h2.cart-notification__heading",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "20px",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    },
+    {
+      "level": 3,
+      "text": "Subtotal:",
+      "id": null,
+      "domPath": "div#cart-notification > div.cart-notification__bottom > div.cart-notification__subtotal > div.totals__wrapper > div.totals > h3.totals__subtotal",
+      "style": {
+        "fontFamily": "mundial, sans-serif",
+        "fontWeight": "400",
+        "fontSize": "16px",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "color": "rgb(45, 45, 45)"
+      }
+    }
+  ],
+  "landmarks": [
+    {
+      "tag": "div",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "announcement-bar",
+        "color-inverse"
+      ],
+      "childCount": 1,
+      "innerText": "Subscribe and Save! *",
+      "children": []
+    },
+    {
+      "tag": "header",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header",
+        "header--top-center",
+        "container",
+        "header--has-menu"
+      ],
+      "childCount": 5,
+      "innerText": "Courses University Partners Blog Support About Us FAQ Log in Create account Cart",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "header__column"
+          ],
+          "headline": null,
+          "wordCount": 5,
+          "body": [],
+          "lists": [],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "menu-drawer__navigation"
+      ],
+      "childCount": 1,
+      "innerText": "console.log(\"Courses\") Courses Courses By State console.log(\"University Partners\") University Partners console.log(\"Blog\") Blog console.log(\"Support\") Support console.log(\"About Us\") About Us console.log(\"FAQ\") FAQ",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Courses University Partners Blog",
+      "children": []
+    },
+    {
+      "tag": "nav",
+      "role": null,
+      "id": null,
+      "classes": [
+        "header__inline-menu"
+      ],
+      "childCount": 1,
+      "innerText": "Support About Us FAQ",
+      "children": []
+    },
+    {
+      "tag": "main",
+      "role": "main",
+      "id": "MainContent",
+      "classes": [
+        "content-for-layout",
+        "focus-none"
+      ],
+      "childCount": 1,
+      "innerText": "Find PD Courses for Your State and District We work with districts and states across the country to offer pre-approved professional development. Select your state to find courses that count for your specific salary or recertification requirements. Select your state: — Choose a state — Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Not sure where to start? Our support team can help you find the right courses for your district or state requirements. CONTACT SUPPORT BROWSE BY STATE Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming CA CALIFORNIA LAUSD Salary Point Courses Teaching in Los Angeles Unified? Our courses are pre-approved by JSPCC and count as salary points toward advancement on the LAUSD salary table. VIEW COURSES HOW TO EARN SALARY POINTS LAUSD Independent Charter Schools For teachers at LAUSD-identified independent charter schools — where LAUSD does not process your payroll — earning salary points. VIEW COURSES HOW TO EARN SALARY POINTS Pasadena Unified School District For Pasadena USD teachers eligible to earn PUSD salary credits or university units toward salary advancement. VIEW COURSES HOW TO EARN SALARY CREDITS Other California Teachers Not in one of our California partner districts? Our graduate-level PD courses are accepted across California for salary advancement and recertification. VIEW COURSES HOW TO EARN PD CREDITS GA GEORGIA Southwest Georgia RESA For teachers in the Southwest Georgia Regional Educational Service Agency earning PLUs toward recertification. VIEW COURSES HOW TO EARN PLUS Pioneer RESA Professional development courses for K-12 teachers in partnership with Pioneer RESA VIEW COURSES Other Georgia Teachers Not in our Southwest Georgia RESA partnership? Our courses are accepted statewide for PLUs and Georgia recertification requirements. BROWSE ALL COURSES HOW TO EARN PD CREDITS IL ILLINOIS Chicago Public Schools Lane Credit For CPS teachers earning Lane Credits, Clock Hours, and CPDUs toward salary advancement on the Chicago Public Schools salary schedule. VIEW COURSES HOW TO EARN LANE CREDITS Other Illinois Teachers For Illinois teachers outside Chicago Public Schools earning professional development credits toward salary increases. VIEW COURSES HOW TO EARN PD CREDITS MT MONTANA Montana State Renewal Units For licensed Montana teachers earning Renewal Units required for state license renewal. VIEW COURSES HOW TO EARN RENEWAL UNITS NY NEW YORK NYC DOE ASPDP P Credits For New York City public school teachers earning P Credits or A+ Credits toward your +30 salary differential, plus CTLE Hours for recertification — all through the After School Professional Development Program. VIEW COURSES HOW TO EARN P CREDITS New York State CTLE Hours For all other New York State licensed teachers earning CTLE hours toward your continuing education requirements for license renewal. VIEW COURSES HOW TO EARN CTLE HOURS TX TEXAS Texas CPE Credits For Texas licensed teachers earning CPE credits toward state license renewal. All courses are TEA approved. VIEW COURSES HOW TO EARN CPE CREDITS Region 10 For Texas Region 10 - CPE Courses for K-12 Teachers. Our online CPE courses are available for graduate-level professional development credits and CPE Credits. VIEW COURSES WA WASHINGTON Educational Service District 101 Clock Hours For teachers earning ESD 101 approved clock hours toward Washington State teacher license renewal, available through pdEnroller. Need subject-specific credits like STEM? Filter by subject on the course page or contact us. VIEW COURSES HOW TO EARN CLOCK HOURS Educational Service District 114 Clock Hours For teachers earning ESD 114 approved clock hours toward Washington State teacher license renewal, available through pdEnroller. Need subject-specific credits like Equity? Filter by subject on the course page or contact us. VIEW COURSES HOW TO EARN CLOCK HOURS Educational Service District 171 Clock Hours For teachers earning ESD 171 approved clock hours toward Washington State teacher license renewal, available through pdEnroller. Need subject-specific credits like STEM? Filter by subject on the course page or contact us. VIEW COURSES HOW TO EARN CLOCK HOURS Other Washington State Teachers For Washington State licensed teachers earning graduate-level professional development credits and clock hours toward state license renewal. Need subject-specific credits like Equity? Filter by subject on the course page or contact us. VIEW COURSES HOW TO EARN CLOCK HOURS WY WYOMING Wyoming PTSB Renewal Units For Wyoming licensed teachers earning Professional Teaching Standards Board Renewal Units required for certificate renewal. VIEW COURSES HOW TO EARN RENEWAL UNITS Professional Development Courses Available in All 50 States Our graduate-level PD courses are accepted nationwide for salary advancement and license recertification. States with partner districts are highlighted — all others link to our full course catalog. Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Still not sure which courses are right for you? Our support team can help you find courses that meet your district or state requirements. CONTACT SUPPORT",
+      "children": [
+        {
+          "tag": "div",
+          "id": "shopify-section-template--22609226989788__main",
+          "classes": [
+            "shopify-section"
+          ],
+          "headline": "Find PD Courses for Your State and District",
+          "wordCount": 931,
+          "body": [
+            "We work with districts and states across the country to offer pre-approved professional development. Select your state to find courses that count for your specific salary or recertification requirements.",
+            "Our support team can help you find the right courses for your district or state requirements.",
+            "Our graduate-level PD courses are accepted nationwide for salary advancement and license recertification. States with partner districts are highlighted — all others link to our full course catalog.",
+            "Our support team can help you find courses that meet your district or state requirements."
+          ],
+          "lists": [],
+          "qa": [],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(45, 45, 45, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "role": null,
+      "id": null,
+      "classes": [
+        "footer",
+        "color-inverse"
+      ],
+      "childCount": 2,
+      "innerText": "CE CREDITS ONLINE 23224 NE 156th Pl. Woodinville, WA 98077 Phone: 425.788.7275 support@cecreditsonline.org HAVE QUESTIONS? You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you! COURSES UNIVERSITY PARTNERS ABOUT FAQ'S BLOG WHAT TEACHERS SAY ABOUT US SUPPORT PRIVACY POLICY REFUND POLICY TERMS OF SERVICE DO NOT SELL MY DATA DATA REQUESTS COOKIE SETTINGS",
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "classes": [
+            "footer__content-top",
+            "container"
+          ],
+          "headline": "CE CREDITS ONLINE",
+          "wordCount": 101,
+          "body": [
+            "23224 NE 156th Pl.Woodinville, WA 98077Phone: 425.788.7275support@cecreditsonline.org",
+            "You can contact CE Credits Online by submitting a request from your Student Homepage under Customer Service which is in the upper right corner of your screen. You may also email us at support@cecreditsonline.org or call our customer service line at 425.788.7275 Ext. 104. Our office hours are Monday-Friday 8:00AM-5:00PM PST. We look forward to hearing from you!"
+          ],
+          "lists": [
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Courses",
+                "University Partners",
+                "About",
+                "FAQ's",
+                "Blog",
+                "What teachers say about us"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            },
+            {
+              "ordered": false,
+              "items": [
+                "Support",
+                "Privacy Policy",
+                "Refund Policy",
+                "Terms of Service",
+                "Do not sell my data",
+                "Data Requests",
+                "Cookie Settings"
+              ]
+            }
+          ],
+          "qa": [
+            {
+              "q": "Quick links",
+              "a": "Courses University Partners About FAQ's Blog What teachers say about us"
+            },
+            {
+              "q": "Quick links",
+              "a": "Support Privacy Policy Refund Policy Terms of Service Do not sell my data Data Requests Cookie Settings"
+            }
+          ],
+          "quotes": [],
+          "bg": "rgba(0, 0, 0, 0)",
+          "color": "rgba(245, 243, 237, 0.75)"
+        }
+      ]
+    },
+    {
+      "tag": "pandectes-cmp",
+      "role": "region",
+      "id": null,
+      "classes": [
+        "needsclick"
+      ],
+      "childCount": 0,
+      "innerText": "",
+      "children": []
+    }
+  ],
+  "ctas": [
+    {
+      "label": "Back to top",
+      "href": null,
+      "tag": "button",
+      "domPath": "button#back-to-top",
+      "style": {
+        "backgroundColor": "rgb(65, 93, 67)",
+        "color": "rgb(255, 255, 255)",
+        "fontFamily": "Arial",
+        "fontWeight": "400",
+        "borderRadius": "50%",
+        "padding": "1px 6px 1px 6px",
+        "boxShadow": "rgba(0, 0, 0, 0.18) 0px 2px 8px 0px"
+      },
+      "appearsAbove": "fold"
+    }
+  ],
+  "links": {
+    "internal": [
+      {
+        "href": "/pages/subscribe-to-our-newsletter",
+        "text": "Subscribe and Save! *",
+        "full": "https://www.cecreditsonline.org/pages/subscribe-to-our-newsletter"
+      },
+      {
+        "href": "/pages/courses",
+        "text": "Courses",
+        "full": "https://www.cecreditsonline.org/pages/courses"
+      },
+      {
+        "href": "/pages/university-partners",
+        "text": "University Partners",
+        "full": "https://www.cecreditsonline.org/pages/university-partners"
+      },
+      {
+        "href": "/blogs/news",
+        "text": "Blog",
+        "full": "https://www.cecreditsonline.org/blogs/news"
+      },
+      {
+        "href": "/pages/contact",
+        "text": "Support",
+        "full": "https://www.cecreditsonline.org/pages/contact"
+      },
+      {
+        "href": "/pages/about-us",
+        "text": "About Us",
+        "full": "https://www.cecreditsonline.org/pages/about-us"
+      },
+      {
+        "href": "/pages/faq",
+        "text": "FAQ",
+        "full": "https://www.cecreditsonline.org/pages/faq"
+      },
+      {
+        "href": "/account/login",
+        "text": "Log in",
+        "full": "https://www.cecreditsonline.org/account/login"
+      },
+      {
+        "href": "/account/register",
+        "text": "Create account",
+        "full": "https://www.cecreditsonline.org/account/register"
+      },
+      {
+        "href": "/",
+        "text": "",
+        "full": "https://www.cecreditsonline.org/"
+      },
+      {
+        "href": "/cart",
+        "text": "Cart",
+        "full": "https://www.cecreditsonline.org/cart"
+      },
+      {
+        "href": "/collections/courses?state=alabama",
+        "text": "Alabama",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=alabama"
+      },
+      {
+        "href": "/collections/courses?state=alaska",
+        "text": "Alaska",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=alaska"
+      },
+      {
+        "href": "/collections/courses?state=arizona",
+        "text": "Arizona",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=arizona"
+      },
+      {
+        "href": "/collections/courses?state=arkansas",
+        "text": "Arkansas",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=arkansas"
+      },
+      {
+        "href": "/collections/courses?state=colorado",
+        "text": "Colorado",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=colorado"
+      },
+      {
+        "href": "/collections/courses?state=connecticut",
+        "text": "Connecticut",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=connecticut"
+      },
+      {
+        "href": "/collections/courses?state=delaware",
+        "text": "Delaware",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=delaware"
+      },
+      {
+        "href": "/collections/courses?state=florida",
+        "text": "Florida",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=florida"
+      },
+      {
+        "href": "/collections/courses?state=hawaii",
+        "text": "Hawaii",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=hawaii"
+      },
+      {
+        "href": "/collections/courses?state=idaho",
+        "text": "Idaho",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=idaho"
+      },
+      {
+        "href": "/collections/courses?state=indiana",
+        "text": "Indiana",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=indiana"
+      },
+      {
+        "href": "/collections/courses?state=iowa",
+        "text": "Iowa",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=iowa"
+      },
+      {
+        "href": "/collections/courses?state=kansas",
+        "text": "Kansas",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=kansas"
+      },
+      {
+        "href": "/collections/courses?state=kentucky",
+        "text": "Kentucky",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=kentucky"
+      },
+      {
+        "href": "/collections/courses?state=louisiana",
+        "text": "Louisiana",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=louisiana"
+      },
+      {
+        "href": "/collections/courses?state=maine",
+        "text": "Maine",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=maine"
+      },
+      {
+        "href": "/collections/courses?state=maryland",
+        "text": "Maryland",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=maryland"
+      },
+      {
+        "href": "/collections/courses?state=massachusetts",
+        "text": "Massachusetts",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=massachusetts"
+      },
+      {
+        "href": "/collections/courses?state=michigan",
+        "text": "Michigan",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=michigan"
+      },
+      {
+        "href": "/collections/courses?state=minnesota",
+        "text": "Minnesota",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=minnesota"
+      },
+      {
+        "href": "/collections/courses?state=mississippi",
+        "text": "Mississippi",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=mississippi"
+      },
+      {
+        "href": "/collections/courses?state=missouri",
+        "text": "Missouri",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=missouri"
+      },
+      {
+        "href": "/collections/courses?state=nebraska",
+        "text": "Nebraska",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=nebraska"
+      },
+      {
+        "href": "/collections/courses?state=nevada",
+        "text": "Nevada",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=nevada"
+      },
+      {
+        "href": "/collections/courses?state=new-hampshire",
+        "text": "New Hampshire",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=new-hampshire"
+      },
+      {
+        "href": "/collections/courses?state=new-jersey",
+        "text": "New Jersey",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=new-jersey"
+      },
+      {
+        "href": "/collections/courses?state=new-mexico",
+        "text": "New Mexico",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=new-mexico"
+      },
+      {
+        "href": "/collections/courses?state=north-carolina",
+        "text": "North Carolina",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=north-carolina"
+      },
+      {
+        "href": "/collections/courses?state=north-dakota",
+        "text": "North Dakota",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=north-dakota"
+      },
+      {
+        "href": "/collections/courses?state=ohio",
+        "text": "Ohio",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=ohio"
+      },
+      {
+        "href": "/collections/courses?state=oklahoma",
+        "text": "Oklahoma",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=oklahoma"
+      },
+      {
+        "href": "/collections/courses?state=oregon",
+        "text": "Oregon",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=oregon"
+      },
+      {
+        "href": "/collections/courses?state=pennsylvania",
+        "text": "Pennsylvania",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=pennsylvania"
+      },
+      {
+        "href": "/collections/courses?state=rhode-island",
+        "text": "Rhode Island",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=rhode-island"
+      },
+      {
+        "href": "/collections/courses?state=south-carolina",
+        "text": "South Carolina",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=south-carolina"
+      },
+      {
+        "href": "/collections/courses?state=south-dakota",
+        "text": "South Dakota",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=south-dakota"
+      },
+      {
+        "href": "/collections/courses?state=tennessee",
+        "text": "Tennessee",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=tennessee"
+      },
+      {
+        "href": "/collections/courses?state=utah",
+        "text": "Utah",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=utah"
+      },
+      {
+        "href": "/collections/courses?state=vermont",
+        "text": "Vermont",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=vermont"
+      },
+      {
+        "href": "/collections/courses?state=virginia",
+        "text": "Virginia",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=virginia"
+      },
+      {
+        "href": "/collections/courses?state=west-virginia",
+        "text": "West Virginia",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=west-virginia"
+      },
+      {
+        "href": "/collections/courses?state=wisconsin",
+        "text": "Wisconsin",
+        "full": "https://www.cecreditsonline.org/collections/courses?state=wisconsin"
+      },
+      {
+        "href": "/collections/lausd",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/lausd"
+      },
+      {
+        "href": "/pages/how-to-get-your-pre-approved-lausd-salary-points",
+        "text": "HOW TO EARN SALARY POINTS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-get-your-pre-approved-lausd-salary-points"
+      },
+      {
+        "href": "/collections/lausd-independent-charter-schools",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/lausd-independent-charter-schools"
+      },
+      {
+        "href": "/pages/how-to-earn-lausd-independent-charter-schools-salary-points",
+        "text": "HOW TO EARN SALARY POINTS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-lausd-independent-charter-schools-salary-points"
+      },
+      {
+        "href": "/collections/pasadena",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/pasadena"
+      },
+      {
+        "href": "/pages/how-to-earn-pasadena-pusd-salary-credits",
+        "text": "HOW TO EARN SALARY CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-pasadena-pusd-salary-credits"
+      },
+      {
+        "href": "/collections/courses",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/courses"
+      },
+      {
+        "href": "/pages/how-to-earn-pd-credits",
+        "text": "HOW TO EARN PD CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-pd-credits"
+      },
+      {
+        "href": "/collections/southwest-georgia-resa",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/southwest-georgia-resa"
+      },
+      {
+        "href": "/pages/how-to-earn-southwest-georgia-resa-plus",
+        "text": "HOW TO EARN PLUS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-southwest-georgia-resa-plus"
+      },
+      {
+        "href": "/collections/pioneer-resa",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/pioneer-resa"
+      },
+      {
+        "href": "/collections/cps",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/cps"
+      },
+      {
+        "href": "/pages/how-to-earn-chicago-public-schools-lane-credits",
+        "text": "HOW TO EARN LANE CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-chicago-public-schools-lane-credits"
+      },
+      {
+        "href": "/collections/illinois",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/illinois"
+      },
+      {
+        "href": "/pages/how-to-earn-illinois-pd-credits",
+        "text": "HOW TO EARN PD CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-illinois-pd-credits"
+      },
+      {
+        "href": "/collections/montana",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/montana"
+      },
+      {
+        "href": "/pages/how-to-earn-montana-renewal-units",
+        "text": "HOW TO EARN RENEWAL UNITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-montana-renewal-units"
+      },
+      {
+        "href": "/collections/aspdp",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/aspdp"
+      },
+      {
+        "href": "/pages/how-to-earn-nyc-doe-aspdp-plus-30-salary-differential",
+        "text": "HOW TO EARN P CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-nyc-doe-aspdp-plus-30-salary-differential"
+      },
+      {
+        "href": "/collections/ctle-hours-for-new-york-state",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/ctle-hours-for-new-york-state"
+      },
+      {
+        "href": "/pages/how-to-earn-new-york-state-ctle-hours",
+        "text": "HOW TO EARN CTLE HOURS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-new-york-state-ctle-hours"
+      },
+      {
+        "href": "/collections/texas-state",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/texas-state"
+      },
+      {
+        "href": "/pages/how-to-earn-texas-cpe-credits",
+        "text": "HOW TO EARN CPE CREDITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-texas-cpe-credits"
+      },
+      {
+        "href": "/collections/region-10",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/region-10"
+      },
+      {
+        "href": "/collections/educational-service-district-101",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/educational-service-district-101"
+      },
+      {
+        "href": "/pages/how-to-earn-clock-hours-esd-101",
+        "text": "HOW TO EARN CLOCK HOURS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-101"
+      },
+      {
+        "href": "/collections/educational-service-district-114",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/educational-service-district-114"
+      },
+      {
+        "href": "/pages/how-to-earn-clock-hours-esd-114",
+        "text": "HOW TO EARN CLOCK HOURS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-114"
+      },
+      {
+        "href": "/collections/educational-service-district-171",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/educational-service-district-171"
+      },
+      {
+        "href": "/pages/how-to-earn-clock-hours-esd-171",
+        "text": "HOW TO EARN CLOCK HOURS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-clock-hours-esd-171"
+      },
+      {
+        "href": "/collections/washington-state",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/washington-state"
+      },
+      {
+        "href": "/pages/how-to-earn-washington-state-clock-hours",
+        "text": "HOW TO EARN CLOCK HOURS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-washington-state-clock-hours"
+      },
+      {
+        "href": "/collections/wyoming-ptsb",
+        "text": "VIEW COURSES",
+        "full": "https://www.cecreditsonline.org/collections/wyoming-ptsb"
+      },
+      {
+        "href": "/pages/how-to-earn-wyoming-ptsb-renewal-units",
+        "text": "HOW TO EARN RENEWAL UNITS",
+        "full": "https://www.cecreditsonline.org/pages/how-to-earn-wyoming-ptsb-renewal-units"
+      },
+      {
+        "href": "/pages/what-teachers-say-about-ce-credits-online",
+        "text": "What teachers say about us",
+        "full": "https://www.cecreditsonline.org/pages/what-teachers-say-about-ce-credits-online"
+      },
+      {
+        "href": "/pages/privacy-policy",
+        "text": "Privacy Policy",
+        "full": "https://www.cecreditsonline.org/pages/privacy-policy"
+      },
+      {
+        "href": "/pages/refund-policy",
+        "text": "Refund Policy",
+        "full": "https://www.cecreditsonline.org/pages/refund-policy"
+      },
+      {
+        "href": "/policies/terms-of-service",
+        "text": "Terms of Service",
+        "full": "https://www.cecreditsonline.org/policies/terms-of-service"
+      },
+      {
+        "href": "/pages/dnsmpi",
+        "text": "Do not sell my data",
+        "full": "https://www.cecreditsonline.org/pages/dnsmpi"
+      },
+      {
+        "href": "/pages/data-requests",
+        "text": "Data Requests",
+        "full": "https://www.cecreditsonline.org/pages/data-requests"
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250",
+        "srcset": "//www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=150 150w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=200 200w, //www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250 250w",
+        "alt": "CE Credits Online",
+        "naturalWidth": 1440,
+        "naturalHeight": 264,
+        "rect": {
+          "w": 250,
+          "h": 46,
+          "top": 81
+        }
+      }
+    ],
+    "inlineSvgs": [
+      {
+        "viewBox": null,
+        "domPath": "div#shopify-section-header > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 18 16",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 11 11",
+        "domPath": "header.header > header-drawer > details.menu-drawer-container > summary.header__icon > span > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div#menu-drawer > div.menu-drawer__inner-container > div.menu-drawer__navigation-container > div.menu-drawer__utility-links > a.button > svg",
+        "w": 0
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__column > div.header__icons > details-disclosure.header__account > details > summary.header__icon > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 15",
+        "domPath": "div.header__icons > details-disclosure.header__account > details > div.header__account-modal > a.button > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 15 17",
+        "domPath": "a#cart-icon-bubble > svg",
+        "w": 15
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#california > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#georgia > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#georgia > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#georgia > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#georgia > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#georgia > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#illinois > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#illinois > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#illinois > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#illinois > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#montana > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#montana > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#new-york > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#new-york > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#new-york > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#new-york > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#texas > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#texas > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#texas > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-howto > svg",
+        "w": 12
+      },
+      {
+        "viewBox": "0 0 22 14",
+        "domPath": "div#washington > div.partner-cards > div.partner-card > div.partner-card__actions > a.btn-courses > svg",
+        "w": 12
+      }
+    ],
+    "cssBackgrounds": [],
+    "videos": [],
+    "iframes": []
+  },
+  "forms": [],
+  "widgets": {
+    "modals": 2,
+    "accordions": 5,
+    "tabs": 0
+  },
+  "cssCustomProperties": [
+    {
+      "name": "--border",
+      "value": "#ddd8cc"
+    },
+    {
+      "name": "--color-background-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--color-card-hover",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-base-background-2",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--font-heading-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--green-light",
+      "value": "#e8efe8"
+    },
+    {
+      "name": "--font-heading-card-letter-spacing",
+      "value": "-0.02em"
+    },
+    {
+      "name": "--color-section-border",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--alpha-button-border",
+      "value": "1"
+    },
+    {
+      "name": "--font-button-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--font-heading-style",
+      "value": "normal"
+    },
+    {
+      "name": "--alpha-link",
+      "value": ".5"
+    },
+    {
+      "name": "--white",
+      "value": "#ffffff"
+    },
+    {
+      "name": "--cream",
+      "value": "#F5F3ED"
+    },
+    {
+      "name": "--font-heading-card-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--color-base-button-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--font-heading-card-weight",
+      "value": "600"
+    },
+    {
+      "name": "--color-foreground-secondary",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--color-base-background-1",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-secondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--green-dark",
+      "value": "#2d3d2e"
+    },
+    {
+      "name": "--font-header-menu-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--text-light",
+      "value": "#777"
+    },
+    {
+      "name": "--duration-long",
+      "value": ".5s"
+    },
+    {
+      "name": "--font-button-family",
+      "value": "Poppins, sans-serif"
+    },
+    {
+      "name": "--font-button-style",
+      "value": "normal"
+    },
+    {
+      "name": "--text-mid",
+      "value": "#555"
+    },
+    {
+      "name": "--alpha-button-background",
+      "value": "1"
+    },
+    {
+      "name": "--font-body-family",
+      "value": "Figtree, sans-serif"
+    },
+    {
+      "name": "--font-body-style",
+      "value": "normal"
+    },
+    {
+      "name": "--orange",
+      "value": "#BB6C26"
+    },
+    {
+      "name": "--font-body-weight",
+      "value": "400"
+    },
+    {
+      "name": "--color-secondary-text",
+      "value": "0, 0, 0"
+    },
+    {
+      "name": "--color-base-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--font-heading-letter-spacing",
+      "value": "0em"
+    },
+    {
+      "name": "--color-error",
+      "value": "185, 49, 49"
+    },
+    {
+      "name": "--color-base-outline-button-labels",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-heading-card-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--color-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--color-badge-background",
+      "value": "245, 243, 237"
+    },
+    {
+      "name": "--green-lighter",
+      "value": "#f2f6f2"
+    },
+    {
+      "name": "--color-scondary-element-background",
+      "value": "224, 224, 224"
+    },
+    {
+      "name": "--font-heading-family",
+      "value": "\"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Ap"
+    },
+    {
+      "name": "--color-announcement-bar",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-title-text",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-foreground",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--color-button-text",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--font-heading-card-style",
+      "value": "normal"
+    },
+    {
+      "name": "--font-header-menu-text-transform",
+      "value": "uppercase"
+    },
+    {
+      "name": "--color-foreground-title",
+      "value": "45, 45, 45"
+    },
+    {
+      "name": "--payment-terms-background-color",
+      "value": "#f5f3ed"
+    },
+    {
+      "name": "--font-header-menu-style",
+      "value": "normal"
+    },
+    {
+      "name": "--green-primary",
+      "value": "#415D43"
+    },
+    {
+      "name": "--font-body-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--font-heading-weight",
+      "value": "400"
+    },
+    {
+      "name": "--font-heading-card-scale",
+      "value": "1.0"
+    },
+    {
+      "name": "--text-dark",
+      "value": "#2D2D2D"
+    },
+    {
+      "name": "--duration-default",
+      "value": ".25s"
+    },
+    {
+      "name": "--color-button",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-base-solid-button-labels",
+      "value": "255, 255, 255"
+    },
+    {
+      "name": "--duration-short",
+      "value": ".1s"
+    },
+    {
+      "name": "--alpha-badge-border",
+      "value": ".1"
+    },
+    {
+      "name": "--color-announcement-bar-background",
+      "value": "65, 93, 67"
+    },
+    {
+      "name": "--color-link",
+      "value": "33, 28, 28"
+    },
+    {
+      "name": "--font-button-weight",
+      "value": "700"
+    },
+    {
+      "name": "--font-header-menu-weight",
+      "value": "500"
+    },
+    {
+      "name": "--color-badge-border",
+      "value": "45, 45, 45"
+    }
+  ],
+  "perSectionStyle": [
+    {
+      "landmark": "div",
+      "bg": null
+    },
+    {
+      "landmark": "header",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "nav",
+      "bg": null
+    },
+    {
+      "landmark": "main",
+      "bg": null
+    },
+    {
+      "landmark": "footer",
+      "bg": null
+    },
+    {
+      "landmark": "pandectes-cmp",
+      "bg": null
+    }
+  ],
+  "stats": {
+    "wordCount": 1052,
+    "ctaCount": 1,
+    "internalLinkCount": 166,
+    "externalLinkCount": 0,
+    "imageCount": 1
+  },
+  "screenshot": "stardust/current/assets/screenshots/pages-courses.png"
+}

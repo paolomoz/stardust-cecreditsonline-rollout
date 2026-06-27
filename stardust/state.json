@@ -1,0 +1,38 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract", "writtenAt": "2026-06-27T17:20:00Z", "stardustVersion": "0.13.1" },
+  "site": {
+    "originUrl": "https://www.cecreditsonline.org",
+    "siteName": "CE Credits Online",
+    "platform": "Shopify",
+    "extractedAt": "2026-06-27T17:15:00Z",
+    "pageCap": 10,
+    "totalDiscovered": 304,
+    "crawled": 10,
+    "register": "brand",
+    "edsProject": { "owner": "paolomoz", "repo": "stardust-cecreditsonline-rollout", "branch": "main" },
+    "daFolder": { "org": "paolomoz", "repo": "stardust-cecreditsonline-rollout" }
+  },
+  "templates": [
+    { "id": "home", "archetype": "index", "pattern": "/", "discovered": 1, "migrateCap": 1 },
+    { "id": "product", "archetype": "products-abcs-of-virtual-teaching", "pattern": "/products/*", "discovered": 58, "migrateCap": 20 },
+    { "id": "collection", "archetype": "collections-courses", "pattern": "/collections/*", "discovered": 22, "migrateCap": 20 },
+    { "id": "info", "archetype": "pages-about-us", "pattern": "/pages/* (generic)", "discovered": 13, "migrateCap": 13 },
+    { "id": "how-to-earn", "archetype": "pages-how-to-earn-pd-credits", "pattern": "/pages/how-to-earn-*", "discovered": 17, "migrateCap": 17 },
+    { "id": "blog-index", "archetype": "blogs-news", "pattern": "/blogs/news", "discovered": 1, "migrateCap": 1 },
+    { "id": "blog-article", "archetype": "blogs-news-pi-day-activities", "pattern": "/blogs/news/*", "discovered": 193, "migrateCap": 20 },
+    { "id": "faq", "archetype": "pages-faq", "pattern": "/pages/faq", "discovered": 1, "migrateCap": 1 },
+    { "id": "contact", "archetype": "pages-contact", "pattern": "/pages/contact", "discovered": 1, "migrateCap": 1 }
+  ],
+  "pages": [
+    { "slug": "index", "url": "https://www.cecreditsonline.org/", "template": "home", "status": "extracted", "currentStatePath": "stardust/current/pages/index.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "products-abcs-of-virtual-teaching", "url": "https://www.cecreditsonline.org/products/abcs-of-virtual-teaching", "template": "product", "status": "extracted", "currentStatePath": "stardust/current/pages/products-abcs-of-virtual-teaching.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "collections-courses", "url": "https://www.cecreditsonline.org/collections/courses", "template": "collection", "status": "extracted", "currentStatePath": "stardust/current/pages/collections-courses.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "pages-about-us", "url": "https://www.cecreditsonline.org/pages/about-us", "template": "info", "status": "extracted", "currentStatePath": "stardust/current/pages/pages-about-us.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "pages-how-to-earn-pd-credits", "url": "https://www.cecreditsonline.org/pages/how-to-earn-pd-credits", "template": "how-to-earn", "status": "extracted", "currentStatePath": "stardust/current/pages/pages-how-to-earn-pd-credits.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "blogs-news", "url": "https://www.cecreditsonline.org/blogs/news", "template": "blog-index", "status": "extracted", "currentStatePath": "stardust/current/pages/blogs-news.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "blogs-news-pi-day-activities", "url": "https://www.cecreditsonline.org/blogs/news/pi-day-activities", "template": "blog-article", "status": "extracted", "currentStatePath": "stardust/current/pages/blogs-news-pi-day-activities.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "pages-faq", "url": "https://www.cecreditsonline.org/pages/faq", "template": "faq", "status": "extracted", "currentStatePath": "stardust/current/pages/pages-faq.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "pages-contact", "url": "https://www.cecreditsonline.org/pages/contact", "template": "contact", "status": "extracted", "currentStatePath": "stardust/current/pages/pages-contact.json", "prototypePath": null, "migratedPath": null },
+    { "slug": "pages-courses", "url": "https://www.cecreditsonline.org/pages/courses", "template": "info", "status": "extracted", "currentStatePath": "stardust/current/pages/pages-courses.json", "prototypePath": null, "migratedPath": null }
+  ]
+}

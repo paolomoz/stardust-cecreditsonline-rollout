@@ -1,0 +1,41 @@
+{
+  "_provenance": { "writtenBy": "stardust:extract", "writtenAt": "2026-06-27T17:20:00Z", "scope": "descriptive current-state" },
+  "colors": {
+    "background": "#F5F3ED",
+    "surface": "#FFFFFF",
+    "text": "#2D2D2D",
+    "primary": "#415D43",
+    "primary-dark": "#2D3D2E",
+    "border": "#211C1C",
+    "muted": "#E0E0E0"
+  },
+  "typography": {
+    "heading": { "family": "Mundial, Poppins, sans-serif", "transform": "none" },
+    "cardHeading": { "family": "Figtree, sans-serif", "transform": "uppercase", "letterSpacing": "-0.02em" },
+    "body": { "family": "Figtree, sans-serif" },
+    "button": { "transform": "uppercase" }
+  },
+  "rounded": "4px",
+  "spacing": "section-banded",
+  "components": ["announcement-bar", "header", "hero-split", "feature-band", "testimonial-slider", "stat-band", "image-text-split", "card-grid", "blog-teasers", "footer"],
+  "extensions": {
+    "componentStyle": {
+      "buttonPrimary": { "bg": "#415D43", "color": "#FFFFFF", "radius": "4px", "transform": "uppercase" },
+      "buttonOutline": { "bg": "#FFFFFF", "border": "#211C1C", "color": "#211C1C", "radius": "4px", "transform": "uppercase" }
+    },
+    "motifs": ["cream-canvas", "forest-green-accent", "split-image-text-panels", "social-proof-bands", "uppercase-card-headings"],
+    "voice": {
+      "headline": "Online Professional Development for K-12 Teachers",
+      "tone": "trustworthy, warm, teacher-to-teacher",
+      "ctas": ["Browse Courses", "Learn More", "Get Started", "Subscribe"]
+    },
+    "modules": [
+      { "id": "candidate-header", "status": "candidate", "instances": "all" },
+      { "id": "candidate-footer", "status": "candidate", "instances": "all" },
+      { "id": "candidate-testimonials", "status": "candidate", "instances": ["home", "what-teachers-say"] },
+      { "id": "candidate-stat-band", "status": "candidate", "instances": ["home"] },
+      { "id": "candidate-course-cards", "status": "candidate", "instances": ["home", "collections", "courses"] },
+      { "id": "candidate-blog-teasers", "status": "candidate", "instances": ["home", "blogs-news"] }
+    ]
+  }
+}
