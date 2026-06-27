@@ -1,0 +1,81 @@
+{
+  "_provenance": { "writtenBy": "stardust:direct", "writtenAt": "2026-06-27T17:32:00Z", "stardustVersion": "0.13.1", "mode": "A", "variantId": "A" },
+  "schemaVersion": 2,
+  "colors": {
+    "background": "oklch(0.96 0.010 92)",
+    "surface": "oklch(0.99 0.005 92)",
+    "ink": "oklch(0.32 0.004 60)",
+    "border": "oklch(0.27 0.006 40)",
+    "primary": "oklch(0.47 0.052 150)",
+    "primary-dark": "oklch(0.36 0.040 150)",
+    "muted": "oklch(0.90 0.002 90)"
+  },
+  "typography": {
+    "heading": { "family": "Poppins, system-ui, sans-serif", "transform": "none" },
+    "body": { "family": "Figtree, system-ui, sans-serif" },
+    "eyebrow": { "transform": "uppercase", "letterSpacing": "0.04em" },
+    "scaleRatio": 1.25,
+    "baseSize": "1.0625rem"
+  },
+  "rounded": "4px",
+  "spacing": { "base": "4pt", "sectionPadding": { "desktop": "64px", "tablet": "48px", "mobile": "32px" } },
+  "components": ["button-primary", "button-secondary", "card", "input", "badge", "link"],
+  "extensions": {
+    "colorMeta": {
+      "hexEquivalents": { "background": "#F5F3ED", "surface": "#FCFBF8", "ink": "#2D2D2D", "border": "#211C1C", "primary": "#415D43", "primary-dark": "#2D3D2E", "muted": "#E0E0E0" }
+    },
+    "typographyMeta": { "fonts": ["Poppins:500,600,700", "Figtree:400,500,600"], "substitution": "Poppins replaces private Mundial" },
+    "shadows": ["0 1px 2px oklch(0.27 0.006 40 / 0.06)", "0 4px 16px oklch(0.27 0.006 40 / 0.08)"],
+    "motion": {
+      "register": "editorial",
+      "registerRationale": "PRODUCT.md Brand Personality 'established, academic, slow-paced' → editorial register; source hero is static <img> (no video/canvas/Lottie to reproduce).",
+      "durations": { "enter": 420, "stagger": 60 }
+    },
+    "breakpoints": { "tablet": "600px", "desktop": "900px", "wide": "1200px" },
+    "divergence": {
+      "mode": "A",
+      "font_deck": { "name": "brand-inherited", "picked_by": "user-constraint", "note": "Poppins/Figtree substitute private Mundial" },
+      "palette": { "source": "inherited from _brand-extraction.json", "picked_by": "user-constraint" },
+      "seed": {
+        "decade": { "value": "2025-now", "picked_by": "mode-A-roll" },
+        "register": { "value": "education / trust-editorial", "picked_by": "brand-native" },
+        "ground_family": { "value": "cream", "override": "brand-faithful", "note": "Mode C: brand ground #F5F3ED wins over seed" }
+      },
+      "brand_faithful_inversions": [
+        { "from": "uppercase headings", "to": "mixed-case headings", "basis": "improvements #4 — uppercase fatigue" },
+        { "from": "private Mundial", "to": "Poppins (open)", "basis": "improvements #2 — licensing risk" },
+        { "from": "live storefront chrome", "to": "editorial single-CTA", "basis": "improvements #5 — EDS editorial target" }
+      ]
+    },
+    "componentStyle": {
+      "buttons": { "primary": { "bg": "var(--primary)", "color": "var(--surface)", "radius": "4px", "transform": "uppercase" }, "secondary": { "bg": "var(--surface)", "border": "1px solid var(--border)", "color": "var(--ink)", "radius": "4px" } },
+      "cards": { "bg": "var(--surface)", "border": "1px solid var(--muted)", "radius": "4px", "shadow": "0 1px 2px rgba(33,28,28,.06)" },
+      "inputs": { "bg": "var(--surface)", "border": "1px solid var(--border)", "radius": "4px" }
+    },
+    "systemComponentRoles": {
+      "header": { "purpose": "brand + primary nav", "position": "top", "constraint": "wordmark logo (ce-logo), 6 nav items, no live cart" },
+      "footer": { "purpose": "secondary nav + legal + newsletter", "position": "bottom" },
+      "announcement-bar": { "purpose": "site-wide promo accent", "position": "above-header", "constraint": "forest-green band" },
+      "cta-band": { "purpose": "section-level conversion", "constraint": "single primary CTA" },
+      "stat-band": { "purpose": "social-proof numerals", "constraint": "verbatim source stats only" },
+      "testimonial-grid": { "purpose": "authentic teacher quotes", "constraint": "verbatim source quotes only" }
+    },
+    "voice": {
+      "do": ["Earn accredited PD credit on your schedule.", "Trusted by 20,000+ educators.", "Self-paced, anytime."],
+      "dont": ["startup hype", "ALL-CAPS section headings", "fabricated stats or claims"]
+    },
+    "iaPriorities": [
+      { "signal": "commercial-conversion", "evidence": "pages/index.json — course CTAs, /collections, /products catalog", "preserveAs": "primary-nav + hero-CTA", "scope": "site-wide", "mutability": "locked" },
+      { "signal": "audience-routing", "evidence": "how-to-earn-* pages route by state/district credit type", "preserveAs": "wayfinding-section", "scope": "site-wide", "mutability": "locked" },
+      { "signal": "social-proof", "evidence": "pages/index.json — '94% of 20,000 educators' + testimonials", "preserveAs": "first-third of home", "scope": "home", "mutability": "locked" }
+    ]
+  },
+  "narrative": {
+    "northStar": "The calm, credible home of K-12 professional development — trust you can feel in the cream and green.",
+    "overview": "A faithful, modernized reproduction of CE Credits Online as an editorial Edge Delivery site: same content, same IA, warmer and more current surface.",
+    "keyCharacteristics": ["cream + forest-green", "Poppins/Figtree", "social-proof-led", "section-banded", "mixed-case calm"],
+    "rules": ["Reproduce source content verbatim", "No fabricated facts or sections", "Uppercase only for eyebrows/CTAs", "Real captured imagery at same semantic position"],
+    "dos": ["large editorial stat band", "3-up testimonial cards", "single primary CTA per section"],
+    "donts": ["live cart chrome", "stock placeholder imagery", "gradient text", "side stripes"]
+  }
+}
