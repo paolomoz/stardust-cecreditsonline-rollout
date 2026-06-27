@@ -1,10 +1,12 @@
 .columns > div {
   display: flex;
   flex-direction: column;
+  gap: 24px;
 }
 
 .columns img {
   width: 100%;
+  border-radius: 8px;
 }
 
 .columns > div > div {
@@ -17,17 +19,29 @@
 
 .columns > div > .columns-img-col img {
   display: block;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
 }
 
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
-    gap: 24px;
+    gap: 48px;
   }
 
   .columns > div > div {
     flex: 1;
     order: unset;
+  }
+}
+
+/* variant: split — image+text panel, image on the left by default */
+.columns.split > div > div:first-child > *:first-child { margin-top: 0; }
+
+/* variant: reverse — image on the right */
+@media (width >= 900px) {
+  .columns.reverse > div > .columns-img-col {
+    order: 2;
   }
 }

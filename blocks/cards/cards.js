@@ -12,6 +12,18 @@ export default function decorate(block) {
     });
     ul.append(li);
   });
-  ul.querySelectorAll('picture > img').forEach((img) => img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }])));
+  // Optimize same-origin images only; external (e.g. source CDN) images keep
+  // their original URL — createOptimizedPicture rewrites the query string and
+  // would break cross-origin renditions.
+  ul.querySelectorAll('picture > img').forEach((img) => {
+    try {
+      const u = new URL(img.src, window.location.href);
+      if (u.origin === window.location.origin) {
+        img.closest('picture').replaceWith(createOptimizedPicture(img.src, img.alt, false, [{ width: '750' }]));
+      } else {
+        img.setAttribute('loading', 'lazy');
+      }
+    } catch (e) { /* leave as-is */ }
+  });
   block.replaceChildren(ul);
 }

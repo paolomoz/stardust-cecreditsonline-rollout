@@ -11,46 +11,40 @@
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  /* CE Credits Online brand palette */
+  --background-color: #f5f3ed;   /* warm cream */
+  --surface-color: #fcfbf8;      /* warm white */
+  --light-color: #efece3;        /* tinted cream band */
+  --dark-color: #2d3d2e;         /* deep forest green */
+  --text-color: #2d2d2d;         /* warm ink */
+  --text-soft: #5a5a55;
+  --primary-color: #415d43;      /* forest green */
+  --primary-dark: #2d3d2e;
+  --border-color: #211c1c;
+  --hairline: #e0ddd2;
+  --link-color: #415d43;
+  --link-hover-color: #2d3d2e;
+  --on-primary: #fcfbf8;
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  --body-font-family: 'Figtree', figtree-fallback, sans-serif;
+  --heading-font-family: 'Poppins', poppins-fallback, sans-serif;
 
   /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
+  --body-font-size-m: 19px;
+  --body-font-size-s: 17px;
+  --body-font-size-xs: 15px;
 
   /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
+  --heading-font-size-xxl: 52px;
+  --heading-font-size-xl: 38px;
+  --heading-font-size-l: 30px;
+  --heading-font-size-m: 24px;
+  --heading-font-size-s: 21px;
+  --heading-font-size-xs: 18px;
 
   /* nav height */
-  --nav-height: 64px;
-}
-
-/* fallback fonts */
-@font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
-}
-
-@font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
+  --nav-height: 72px;
 }
 
 @media (width >= 900px) {
@@ -107,10 +101,16 @@ h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
   scroll-margin: 40px;
 }
+
+h2,
+h3,
+h4 { font-weight: 600; }
 
 h1 { font-size: var(--heading-font-size-xxl); }
 h2 { font-size: var(--heading-font-size-xl); }
@@ -178,17 +178,29 @@ button.button {
   justify-content: center;
   max-width: 100%;
   margin: 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
-  font: inherit;
-  font-weight: 500;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 0.7em 1.4em;
+  font-family: var(--heading-font-family);
+  font-size: var(--body-font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.04em;
   line-height: 1.25;
+  text-transform: uppercase;
   text-decoration: none;
   cursor: pointer;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: var(--on-primary);
+  transition: background-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
+}
+
+a.button:hover {
+  text-decoration: none;
+  transform: translateY(-1px);
 }
 
 a.button[aria-disabled="true"],
@@ -199,18 +211,18 @@ button.button:disabled {
 
 a.button.primary,
 button.button.primary {
-  border-color: var(--text-color);
-  background-color: var(--text-color);
-  color: var(--background-color);
+  border-color: var(--primary-color);
+  background-color: var(--primary-color);
+  color: var(--on-primary);
 }
 
 a.button.primary:hover,
 a.button.primary:focus-visible,
 button.button.primary:hover,
 button.button.primary:focus-visible {
-  border-color: var(--dark-color);
-  background-color: var(--dark-color);
-  color: var(--light-color);
+  border-color: var(--primary-dark);
+  background-color: var(--primary-dark);
+  color: var(--on-primary);
 }
 
 a.button.primary[aria-disabled="true"],
