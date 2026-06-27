@@ -23,3 +23,5 @@ samples/
 # stardust diagnostic screenshots (regenerable, large)
 stardust/current/assets/screenshots/
 stardust/**/assets/screenshots/
+
+stardust/validation/

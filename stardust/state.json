@@ -93,10 +93,26 @@
       "slug": "index",
       "url": "https://www.cecreditsonline.org/",
       "template": "home",
-      "status": "directed",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/index.json",
-      "prototypePath": null,
-      "migratedPath": null
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": null,
+      "gates": {
+        "detector": "1 warning (em-dash, Discipline 9 bypass)",
+        "mobileOverflow": false,
+        "pageErrors": 0,
+        "imageFidelity": "all 200"
+      },
+      "history": [
+        {
+          "status": "prototyped",
+          "at": "2026-06-27T15:33:06.222Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-06-27T15:33:06.222Z"
+        }
+      ]
     },
     {
       "slug": "products-abcs-of-virtual-teaching",

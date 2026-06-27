@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+_provenance:
+  writtenBy: stardust:prototype (via $impeccable craft)
+  writtenAt: 2026-06-27T17:50:00Z
+  againstDirection: stardust/direction.md (Active, Mode A, ia-fidelity verbatim)
+  readArtifacts: [stardust/prototypes/index-shape.md, DESIGN.md, DESIGN.json, stardust/current/pages/index.json]
+  mode: A
+  variantId: A
+  surprise: low
+  copyCadenceBypass: { rules: [em-dash-overuse, marketing-buzzword], basis: "captured-verbatim prose under ia-fidelity verbatim (Discipline 9)" }
+  reflexRejectAudit: { bypassed: true, families: [Poppins, Figtree], reason: "captured/pinned brand families (Mode A)" }
+  unsourcedContent: []
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Online PD Credits for K-12 Teachers | Self-Paced & Flexible — CE Credits Online</title>
+<meta name="description" content="Earn accredited Professional Development credits for K–12 teacher recertification and salary advancement. Online, self-paced courses you can take anytime.">
+<link rel="icon" href="https://www.cecreditsonline.org/cdn/shop/files/favicon.png?v=1696454106&width=64">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;1,400&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --background: oklch(0.96 0.010 92);   /* #F5F3ED cream */
+    --surface:    oklch(0.99 0.005 92);   /* warm white */
+    --ink:        oklch(0.32 0.004 60);   /* #2D2D2D */
+    --ink-soft:   oklch(0.45 0.004 60);
+    --border:     oklch(0.27 0.006 40);   /* #211C1C */
+    --hairline:   oklch(0.88 0.004 92);
+    --primary:    oklch(0.47 0.052 150);  /* #415D43 forest green */
+    --primary-dark: oklch(0.36 0.040 150);/* #2D3D2E */
+    --muted:      oklch(0.90 0.002 90);   /* #E0E0E0 */
+    --on-primary: oklch(0.98 0.008 92);
+
+    --font-heading: "Poppins", system-ui, sans-serif;
+    --font-body: "Figtree", system-ui, sans-serif;
+    --step-0: 1.0625rem;
+    --step-1: 1.33rem;
+    --step-2: 1.66rem;
+    --step-3: 2.07rem;
+    --step-4: clamp(2.4rem, 4vw, 3.4rem);
+    --radius: 4px;
+    --pad-section: 64px;
+    --maxw: 1180px;
+
+    --z-sticky: 100;
+    --z-drawer: 200;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; hanging-punctuation: first; overflow-x: hidden; }
+  body { overflow-x: hidden; }
+  body {
+    margin: 0; background: var(--background); color: var(--ink);
+    font-family: var(--font-body); font-size: var(--step-0); line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1,h2,h3 { font-family: var(--font-heading); font-weight: 600; line-height: 1.12; letter-spacing: -0.02em; text-wrap: balance; margin: 0 0 .5em; }
+  h1 { font-size: var(--step-4); font-weight: 700; }
+  h2 { font-size: var(--step-3); }
+  h3 { font-size: var(--step-1); }
+  p { margin: 0 0 1em; text-wrap: pretty; max-width: 68ch; }
+  a { color: var(--primary); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  img { max-width: 100%; height: auto; display: block; }
+  .wrap { max-width: var(--maxw); margin-inline: auto; padding-inline: 24px; }
+  section { padding-block: var(--pad-section); }
+  .eyebrow { font-family: var(--font-heading); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; font-size: .8rem; color: var(--primary); margin: 0 0 .6rem; }
+
+  /* buttons */
+  .btn { display: inline-flex; align-items: center; gap: .5rem; font-family: var(--font-heading); font-weight: 600; text-transform: uppercase; letter-spacing: .04em; font-size: .85rem; padding: .85rem 1.6rem; border-radius: var(--radius); border: 1px solid transparent; cursor: pointer; transition: background .18s ease, color .18s ease, transform .18s ease; }
+  .btn-primary { background: var(--primary); color: var(--on-primary); }
+  .btn-primary:hover { background: var(--primary-dark); text-decoration: none; transform: translateY(-1px); }
+  .btn-outline { background: transparent; color: var(--ink); border-color: var(--border); }
+  .btn-outline:hover { background: var(--border); color: var(--on-primary); text-decoration: none; }
+  :focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; border-radius: 2px; }
+
+  /* skip link */
+  .skip { position: absolute; left: -999px; top: 0; background: var(--primary); color: var(--on-primary); padding: .6rem 1rem; z-index: 999; }
+  .skip:focus { left: 0; }
+
+  /* announcement */
+  .announce { background: var(--primary); color: var(--on-primary); text-align: center; font-size: .9rem; padding: .55rem 1rem; font-weight: 500; }
+  .announce a { color: var(--on-primary); text-decoration: underline; }
+
+  /* header */
+  header.site { position: sticky; top: 0; z-index: var(--z-sticky); background: color-mix(in oklch, var(--background) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--hairline); }
+  .nav { display: flex; align-items: center; gap: 1.5rem; padding-block: .8rem; }
+  .nav__logo img { height: 44px; width: auto; }
+  .nav__links { display: flex; gap: 1.4rem; margin-left: auto; align-items: center; }
+  .nav__links a { color: var(--ink); font-weight: 500; font-size: .95rem; }
+  .nav__links a:hover { color: var(--primary); text-decoration: none; }
+  .nav__cta { margin-left: .5rem; }
+  .burger { display: none; margin-left: auto; background: none; border: 0; padding: .4rem; cursor: pointer; }
+  .burger svg { width: 26px; height: 26px; stroke: var(--ink); }
+
+  /* hero */
+  .hero__grid { display: grid; grid-template-columns: 1.05fr 1fr; gap: 3rem; align-items: center; }
+  .hero__photo img { border-radius: 8px; box-shadow: 0 12px 40px color-mix(in oklch, var(--border) 12%, transparent); width: 100%; object-fit: cover; }
+  .hero__sub { font-size: var(--step-1); color: var(--ink-soft); max-width: 30ch; }
+  .hero__actions { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.5rem; }
+
+  /* testimonials */
+  .band-tint { background: var(--surface); border-block: 1px solid var(--hairline); }
+  .cards3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2rem; }
+  .quote { background: var(--background); border: 1px solid var(--hairline); border-radius: var(--radius); padding: 1.6rem; }
+  .quote p { font-size: 1.05rem; font-style: italic; color: var(--ink); }
+  .quote cite { display: block; font-style: normal; font-weight: 600; color: var(--primary); margin-top: 1rem; font-size: .9rem; }
+
+  /* split panel */
+  .split { display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; }
+  .split--rev .split__media { order: 2; }
+  .split__media img { border-radius: 8px; width: 100%; aspect-ratio: 3/2; object-fit: cover; }
+
+  /* stat band */
+  .statband { background: var(--primary); color: var(--on-primary); text-align: center; }
+  .statband .num { font-family: var(--font-heading); font-weight: 700; font-size: clamp(3rem, 8vw, 5.5rem); line-height: 1; letter-spacing: -0.03em; }
+  .statband p { color: var(--on-primary); opacity: .92; max-width: 40ch; margin-inline: auto; font-size: 1.15rem; }
+
+  /* partners */
+  .partners__logos { margin-top: 2rem; background: var(--surface); border: 1px solid var(--hairline); border-radius: 8px; padding: 1.5rem; }
+  .partners__logos img { margin-inline: auto; max-height: 90px; width: auto; }
+
+  /* newsletter */
+  .news__form { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: 1.2rem; }
+  .news__form input { flex: 1 1 240px; padding: .85rem 1rem; border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); font: inherit; }
+
+  /* articles */
+  .artcard { background: var(--surface); border: 1px solid var(--hairline); border-radius: 8px; overflow: hidden; transition: box-shadow .2s ease, transform .2s ease; }
+  .artcard:hover { box-shadow: 0 10px 28px color-mix(in oklch, var(--border) 10%, transparent); transform: translateY(-3px); }
+  .artcard img { aspect-ratio: 16/10; object-fit: cover; width: 100%; }
+  .artcard .body { padding: 1.25rem; }
+  .artcard h3 { font-size: 1.15rem; margin-bottom: .4rem; }
+  .artcard a.more { font-weight: 600; font-size: .9rem; }
+
+  /* footer */
+  footer.site { background: var(--ink); color: color-mix(in oklch, var(--surface) 90%, var(--ink)); padding-block: 3.5rem 2rem; }
+  footer.site h4 { font-family: var(--font-heading); text-transform: uppercase; letter-spacing: .06em; font-size: .85rem; color: var(--surface); margin: 0 0 1rem; }
+  .foot__grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1.2fr; gap: 2rem; }
+  footer.site a { color: color-mix(in oklch, var(--surface) 80%, var(--ink)); font-size: .92rem; display: block; padding: .2rem 0; }
+  footer.site a:hover { color: var(--surface); }
+  .foot__bottom { border-top: 1px solid color-mix(in oklch, var(--surface) 28%, var(--ink)); margin-top: 2.5rem; padding-top: 1.5rem; font-size: .82rem; color: color-mix(in oklch, var(--surface) 62%, var(--ink)); display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; }
+  .foot__logo img { height: 40px; filter: brightness(0) invert(1); margin-bottom: 1rem; }
+
+  .section-head { max-width: 56ch; }
+
+  /* entrance motion — gated behind html.js-anim so no-JS / headless keeps content visible */
+  @media (prefers-reduced-motion: no-preference) {
+    html.js-anim [data-anim] { opacity: 0; transform: translateY(16px); transition: opacity .5s ease, transform .5s cubic-bezier(0.22,1,0.36,1); }
+    html.js-anim [data-anim].in { opacity: 1; transform: none; }
+  }
+
+  /* responsive */
+  @media (max-width: 900px) {
+    :root { --pad-section: 48px; }
+    .hero__grid, .split, .foot__grid { grid-template-columns: 1fr; gap: 2rem; }
+    .split--rev .split__media { order: 0; }
+    .cards3 { grid-template-columns: 1fr 1fr; }
+    .foot__grid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 640px) {
+    .burger { display: inline-flex; }
+    .nav__links { position: fixed; inset: 0 0 0 auto; width: min(80vw, 320px); flex-direction: column; align-items: flex-start; background: var(--surface); padding: 5rem 1.5rem 2rem; gap: 1.2rem; transform: translateX(100%); transition: transform .25s ease; box-shadow: -8px 0 30px color-mix(in oklch, var(--border) 18%, transparent); z-index: var(--z-drawer); }
+    .nav__links.open { transform: none; }
+    .cards3 { grid-template-columns: 1fr; }
+    .foot__grid { grid-template-columns: 1fr; }
+    .statband .num { font-size: clamp(2.6rem, 14vw, 4rem); }
+  }
+</style>
+</head>
+<script>document.documentElement.classList.add('js-anim');</script>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="announce" data-section="announcement">
+  📚 New courses added — <a href="/collections/courses">Browse the catalog</a>
+</div>
+
+<header class="site" data-section="header">
+  <div class="wrap nav">
+    <a class="nav__logo" href="/" aria-label="CE Credits Online home">
+      <img src="https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250" alt="CE Credits Online" width="220" height="40">
+    </a>
+    <button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <nav class="nav__links" id="primary-nav" aria-label="Primary">
+      <a href="/pages/courses">Courses</a>
+      <a href="/pages/university-partners">University Partners</a>
+      <a href="/blogs/news">Blog</a>
+      <a href="/pages/contact">Support</a>
+      <a href="/pages/about-us">About Us</a>
+      <a href="/pages/faq">FAQ</a>
+      <a class="btn btn-primary nav__cta" href="/collections/courses">Browse Courses</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <!-- HERO -->
+  <section data-section="hero">
+    <div class="wrap hero__grid">
+      <div class="hero__copy">
+        <p class="eyebrow">Online Professional Development</p>
+        <h1>Online Professional Development for K-12 Teachers</h1>
+        <p class="hero__sub">Flexible, self-paced online PD courses for teachers — earn accredited credits for salary advancement &amp; recertification.</p>
+        <div class="hero__actions">
+          <a class="btn btn-primary" href="/collections/courses">Browse Courses</a>
+          <a class="btn btn-outline" href="/pages/how-to-earn-pd-credits">How to earn credits</a>
+        </div>
+      </div>
+      <div class="hero__photo" data-anim>
+        <img src="https://www.cecreditsonline.org/cdn/shop/files/hero.webp?v=1664302450&width=1500" alt="A K-12 teacher learning online with CE Credits Online" width="1100" height="547" fetchpriority="high">
+      </div>
+    </div>
+  </section>
+
+  <!-- TESTIMONIALS -->
+  <section class="band-tint" data-section="testimonials">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>What Teachers Say About CE Credits Online</h2>
+      </div>
+      <div class="cards3">
+        <figure class="quote" data-anim>
+          <p>"I will use the learned strategies every day in my practice. I have a much better understanding of HIB and how I can prevent it in my school building."</p>
+          <cite>— K-12 Educator</cite>
+        </figure>
+        <figure class="quote" data-anim>
+          <p>"I absolutely loved this course! It was incredibly helpful, offering strategies that apply to any type of student. I've made copies of all the materials and plan to share them."</p>
+          <cite>— Classroom Teacher</cite>
+        </figure>
+        <figure class="quote" data-anim>
+          <p>"I found the evidence-based strategies I took away from this course incredibly valuable. I loved the videos and resources that were shared throughout."</p>
+          <cite>— Special Education Teacher</cite>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- GET THE CREDITS YOU NEED -->
+  <section data-section="credits-wayfinding">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">Find your pathway</p>
+        <h2>Get the Credits You Need</h2>
+        <p>CE Credits Online courses are accepted for recertification, clock hours, and salary advancement across states and districts. Find the credit pathway that fits where you teach.</p>
+      </div>
+      <div class="hero__actions">
+        <a class="btn btn-primary" href="/pages/courses">View all courses</a>
+        <a class="btn btn-outline" href="/pages/how-to-earn-pd-credits">See credit pathways</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="band-tint" data-section="about">
+    <div class="wrap split">
+      <div class="split__media" data-anim>
+        <img src="https://www.cecreditsonline.org/cdn/shop/files/Happy-young-woman-library.jpg?v=1664397081&width=700" alt="A teacher studying in a library">
+      </div>
+      <div>
+        <p class="eyebrow">About</p>
+        <h2>What is CE Credits Online?</h2>
+        <p>For more than 20 years, CE Credits Online has been helping K-12 teachers grow — on their schedule, at their own pace, and in ways that actually matter in the classroom.</p>
+        <p>Founded in 2001, CE Credits Online is a woman-owned company built around one simple idea: professional development should be worth a teacher's time. Our graduate-level courses are completely online and self-paced.</p>
+        <a class="btn btn-outline" href="/pages/about-us">More about us</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- STAT BAND -->
+  <section class="statband" data-section="stat-band">
+    <div class="wrap">
+      <div class="num" data-anim>94%</div>
+      <p>of over 20,000 educators state they would take another CE Credits Online course.</p>
+    </div>
+  </section>
+
+  <!-- UNIVERSITY PARTNERS -->
+  <section data-section="university-partners">
+    <div class="wrap split split--rev">
+      <div class="split__media" data-anim>
+        <img src="https://www.cecreditsonline.org/cdn/shop/files/classroom-learning.webp?v=1664397519&width=700" alt="Educators collaborating">
+      </div>
+      <div>
+        <p class="eyebrow">Accreditation</p>
+        <h2>University Partners</h2>
+        <p>Every CE Credits Online course is eligible for graduate-level credit from regionally accredited universities, and hundreds of thousands of educators have trusted us over the past two decades.</p>
+        <div class="partners__logos">
+          <img src="https://www.cecreditsonline.org/cdn/shop/files/university_logoset_1070-transparent-2.png?width=900" alt="Logos of partner universities including Adams State University and Valley City State University" loading="lazy">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HAVE QUESTIONS / FAQ TEASER -->
+  <section class="band-tint" data-section="faq-teaser">
+    <div class="wrap split">
+      <div class="split__media" data-anim>
+        <img src="https://www.cecreditsonline.org/cdn/shop/files/smiling-friends.webp?v=1664397736&width=700" alt="Teachers smiling together">
+      </div>
+      <div>
+        <p class="eyebrow">Have Questions?</p>
+        <h2>There's a lot to know</h2>
+        <p>There's lots to know about CE Credits Online and the courses we offer to develop your professional qualifications. Here are the most common questions we get asked.</p>
+        <a class="btn btn-primary" href="/pages/faq">Read the FAQ</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section data-section="newsletter">
+    <div class="wrap split split--rev">
+      <div class="split__media" data-anim>
+        <img src="https://www.cecreditsonline.org/cdn/shop/files/smiling-friends.webp?v=1664397736&width=700" alt="Educators connecting">
+      </div>
+      <div>
+        <p class="eyebrow">Stay in touch</p>
+        <h2>Subscribe to our Newsletter</h2>
+        <p>Get classroom tips, new course announcements, and PD credit news delivered to your inbox.</p>
+        <form class="news__form" action="/pages/subscribe-to-our-newsletter" method="post">
+          <input type="email" name="email" placeholder="you@school.edu" aria-label="Email address" required>
+          <button class="btn btn-primary" type="submit">Subscribe</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- LATEST ARTICLES -->
+  <section class="band-tint" data-section="latest-articles">
+    <div class="wrap">
+      <div class="section-head">
+        <p class="eyebrow">From the blog</p>
+        <h2>Latest Articles</h2>
+      </div>
+      <div class="cards3">
+        <article class="artcard" data-anim>
+          <a href="/blogs/news/the-importance-of-professional-development"><img src="https://www.cecreditsonline.org/cdn/shop/articles/woman-working-at-home-home-office-2026-03-26-09-02-44-utc_9e956f79-da0d-468c-a39a-d32ad42d3554.jpg?width=600" alt="The Importance of Professional Development" loading="lazy"></a>
+          <div class="body">
+            <h3><a href="/blogs/news/the-importance-of-professional-development">The Importance of Professional Development</a></h3>
+            <a class="more" href="/blogs/news/the-importance-of-professional-development">Read article →</a>
+          </div>
+        </article>
+        <article class="artcard" data-anim>
+          <a href="/blogs/news/end-of-year-checklist-for-k-12-teachers"><img src="https://www.cecreditsonline.org/cdn/shop/articles/checklist-with-pink-marker-on-pink-background-2026-03-17-04-13-09-utc_ce0675d7-0d4d-4874-a9b4-11ef90e5fc8e.jpg?width=600" alt="End-of-Year Checklist for K–12 Teachers" loading="lazy"></a>
+          <div class="body">
+            <h3><a href="/blogs/news/end-of-year-checklist-for-k-12-teachers">End-of-Year Checklist for K–12 Teachers</a></h3>
+            <a class="more" href="/blogs/news/end-of-year-checklist-for-k-12-teachers">Read article →</a>
+          </div>
+        </article>
+        <article class="artcard" data-anim>
+          <a href="/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day"><img src="https://www.cecreditsonline.org/cdn/shop/articles/teacher-waving-at-high-school-students-2026-01-05-00-33-43-utc_a3b436a3-e975-4b89-b6b6-02fa93d6ca6e.jpg?width=600" alt="The First 10 Minutes: Routines That Make or Break Your Day" loading="lazy"></a>
+          <div class="body">
+            <h3><a href="/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day">The First 10 Minutes: Routines That Make or Break Your Day</a></h3>
+            <a class="more" href="/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day">Read article →</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site" data-section="footer">
+  <div class="wrap">
+    <div class="foot__grid">
+      <div>
+        <div class="foot__logo"><img src="https://www.cecreditsonline.org/cdn/shop/files/ce-logo.png?v=1690321136&width=250" alt="CE Credits Online"></div>
+        <p>Online, self-paced graduate-level professional development for K-12 teachers. Trusted by 20,000+ educators since 2001.</p>
+      </div>
+      <div>
+        <h4>Quick Links</h4>
+        <a href="/pages/courses">Courses</a>
+        <a href="/pages/university-partners">University Partners</a>
+        <a href="/pages/about-us">About</a>
+        <a href="/pages/faq">FAQ</a>
+        <a href="/blogs/news">Blog</a>
+        <a href="/pages/what-teachers-say-about-ce-credits-online">What teachers say</a>
+      </div>
+      <div>
+        <h4>Support</h4>
+        <a href="/pages/contact">Contact</a>
+        <a href="/pages/privacy-policy">Privacy Policy</a>
+        <a href="/pages/refund-policy">Refund Policy</a>
+        <a href="/policies/terms-of-service">Terms of Service</a>
+        <a href="/pages/dnsmpi">Do not sell my data</a>
+        <a href="/pages/data-requests">Data Requests</a>
+      </div>
+      <div>
+        <h4>Newsletter</h4>
+        <p>Classroom tips &amp; course news.</p>
+        <form class="news__form" action="/pages/subscribe-to-our-newsletter" method="post">
+          <input type="email" name="email" placeholder="you@school.edu" aria-label="Email address" required>
+          <button class="btn btn-primary" type="submit">Join</button>
+        </form>
+      </div>
+    </div>
+    <div class="foot__bottom">
+      <span>© CE Credits Online. All rights reserved.</span>
+      <span>Online PD for K-12 Teachers</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Mobile nav (event-delegated; fragments inject via innerHTML on EDS, no inline script there)
+  (function () {
+    var burger = document.querySelector('.burger');
+    var nav = document.getElementById('primary-nav');
+    if (burger && nav) {
+      burger.addEventListener('click', function () {
+        var open = nav.classList.toggle('open');
+        burger.setAttribute('aria-expanded', String(open));
+        burger.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      });
+      nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') nav.classList.remove('open'); });
+    }
+    // Entrance reveal (enhances already-visible default; no content gated)
+    if (matchMedia('(prefers-reduced-motion: no-preference)').matches && 'IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); } });
+      }, { rootMargin: '0px 0px -10% 0px' });
+      document.querySelectorAll('[data-anim]').forEach(function (el) { io.observe(el); });
+    } else {
+      document.querySelectorAll('[data-anim]').forEach(function (el) { el.classList.add('in'); });
+    }
+    // Failsafe: never leave content stranded if the observer didn't fire.
+    setTimeout(function () { document.querySelectorAll('[data-anim]:not(.in)').forEach(function (el) { el.classList.add('in'); }); }, 1800);
+  })();
+</script>
+</body>
+</html>
