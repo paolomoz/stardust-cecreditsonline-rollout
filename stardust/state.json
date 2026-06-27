@@ -204,5 +204,16 @@
     "variantMode": "single",
     "iaFidelity": "verbatim",
     "density": "balanced"
+  },
+  "rollout": {
+    "deliveredAt": "2026-06-27T16:11:04.720Z",
+    "pagesLive": 95,
+    "templates": 7,
+    "verified": "95/95 (200+h1+no about:error)",
+    "renderCheck": "9/9 templates clean",
+    "dynamicBlocks": [
+      "blog-list (20 rows live)"
+    ],
+    "liveTree": "https://main--stardust-cecreditsonline-rollout--paolomoz.aem.live"
   }
 }

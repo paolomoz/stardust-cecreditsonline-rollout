@@ -453,5 +453,20 @@
   "path": "/blogs/news/6-creative-teaching-methods",
   "src": "https://www.cecreditsonline.org/blogs/news/6-creative-teaching-methods",
   "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/the-importance-of-professional-development",
+  "src": "https://www.cecreditsonline.org/blogs/news/the-importance-of-professional-development",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/end-of-year-checklist-for-k-12-teachers",
+  "src": "https://www.cecreditsonline.org/blogs/news/end-of-year-checklist-for-k-12-teachers",
+  "template": "blog-article"
+ },
+ {
+  "path": "/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day",
+  "src": "https://www.cecreditsonline.org/blogs/news/the-first-10-minutes-routines-that-make-or-break-your-day",
+  "template": "blog-article"
  }
 ]
