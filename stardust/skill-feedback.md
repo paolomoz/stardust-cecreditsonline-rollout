@@ -136,6 +136,25 @@ required.
 
 ---
 
+## 11. Social-proof blocks default to the banned identical-card-grid
+**Skills:** `stardust:prototype`/`migrate` (testimonials/social-proof pattern)
+**Priority:** P1 (impeccable absolute-ban escape)
+
+The generic `cards testimonials` variant ships the exact **"identical card
+grids"** impeccable bans. A `delight` pass produced a reusable, on-objective
+alternative — **"featured voice + chorus"**: one featured quote (larger, warm
+tint, oversized brand quotation glyph) + a supporting chorus at smaller scale,
+asymmetric grid, staggered reveal-as-enhancement (reduced-motion safe, failsafe,
+never strands content). Verbatim quotes only — trust intact. Reference
+implementation: `blocks/testimonials/testimonials.{js,css}`.
+
+**Proposed change:** ship a dedicated `testimonials` block pattern (not a
+`cards` variant) in the stardust block library so social proof escapes the
+identical-grid cliché by default. Generalizes to any "wall of short quotes"
+surface.
+
+---
+
 ## 10. impeccable design hook replays a stale finding cache
 **Skills:** `impeccable` hooks
 **Priority:** P3 (DX noise)
